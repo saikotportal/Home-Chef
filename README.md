@@ -140,7 +140,7 @@ homechef-v5/
 | Styling | Tailwind CSS v3 |
 | Maps | Leaflet 1.9 (CDN) |
 | State | React Context + localStorage |
-| Data | Static JSON (no backend) |
+| Data | JSON |
 
 ---
 
