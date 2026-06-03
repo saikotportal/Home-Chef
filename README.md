@@ -3,7 +3,7 @@
 > A full-stack-style React web app connecting home chefs, customers, and delivery riders — built with Vite, React 18, Tailwind CSS, and React Router.
 
 <!-- Replace the URL below once deployed -->
-🌐 **Live Demo:** `[saikotportal/Home-Che](https://hommechef.vercel.app/)`
+🌐 **Live Demo:** [saikotportal/Home-Che](https://hommechef.vercel.app/)
 
 ---
 
