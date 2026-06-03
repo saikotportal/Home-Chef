@@ -1,0 +1,764 @@
+[
+  {
+    "id": "u001",
+    "name": "Rashida Begum",
+    "avatar": "https://images.unsplash.com/photo-1607631568010-a87245c0daf4?w=200&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?w=1200&q=80",
+    "bio": "25 years of cooking authentic Bengali dishes. My kitchen smells like home — mustard oil, hilsa, and love.",
+    "specialty": "Bengali Traditional",
+    "cuisines": [
+      "Bengali",
+      "Traditional",
+      "Seafood"
+    ],
+    "rating": 4.9,
+    "totalReviews": 214,
+    "totalOrders": 890,
+    "available": true,
+    "location": "Dhanmondi, Dhaka",
+    "areaId": "dhanmondi",
+    "zone": 1,
+    "joinedYear": 2021,
+    "lat": 23.747215,
+    "lng": 90.3704,
+    "minOrder": 150,
+    "specialityDays": {
+      "days": [
+        "Friday"
+      ],
+      "dish": "Hilsa Curry"
+    },
+    "availableHours": {
+      "open": "08:00",
+      "close": "21:00"
+    },
+    "notAcceptingOrders": false,
+    "open24Hours": false
+  },
+  {
+    "id": "u002",
+    "name": "Karim Mia",
+    "avatar": "https://images.unsplash.com/photo-1583394293214-0d0f290c9c5b?w=200&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?w=1200&q=80",
+    "bio": "Former hotel chef turned home cook. I specialize in Mughlai and rich meat dishes that take hours to perfect.",
+    "specialty": "Mughlai & Biryani",
+    "cuisines": [
+      "Mughlai",
+      "Biryani",
+      "BBQ"
+    ],
+    "rating": 4.8,
+    "totalReviews": 178,
+    "totalOrders": 720,
+    "available": true,
+    "location": "Gulshan, Dhaka",
+    "areaId": "gulshan",
+    "zone": 2,
+    "joinedYear": 2022,
+    "lat": 23.779,
+    "lng": 90.412486,
+    "minOrder": 200,
+    "specialityDays": {
+      "days": [
+        "Friday",
+        "Saturday"
+      ],
+      "dish": "Kacchi Biryani"
+    },
+    "availableHours": {
+      "open": "11:00",
+      "close": "23:00"
+    },
+    "notAcceptingOrders": false,
+    "open24Hours": false
+  },
+  {
+    "id": "u003",
+    "name": "Priya Das",
+    "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=1200&q=80",
+    "bio": "Vegetarian cooking is my passion. I create vibrant Indian dishes that are healthy, colourful and full of flavour.",
+    "specialty": "Indian Vegetarian",
+    "cuisines": [
+      "Indian",
+      "Vegetarian",
+      "Healthy"
+    ],
+    "rating": 4.7,
+    "totalReviews": 132,
+    "totalOrders": 510,
+    "available": true,
+    "location": "Mirpur, Dhaka",
+    "areaId": "mirpur",
+    "zone": 3,
+    "joinedYear": 2022,
+    "lat": 23.824192,
+    "lng": 90.366814,
+    "minOrder": 150,
+    "specialityDays": {
+      "days": [
+        "Sunday"
+      ],
+      "dish": "Thali Special"
+    },
+    "availableHours": {
+      "open": "08:30",
+      "close": "20:00"
+    },
+    "notAcceptingOrders": false,
+    "open24Hours": false
+  },
+  {
+    "id": "u004",
+    "name": "Fatema Khatun",
+    "avatar": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=200&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=1200&q=80",
+    "bio": "Street food queen of Old Dhaka. My fuchka, chotpoti, and haleem have a fanbase across the city.",
+    "specialty": "Street Food & Haleem",
+    "cuisines": [
+      "Street Food",
+      "Snacks",
+      "Bengali"
+    ],
+    "rating": 4.6,
+    "totalReviews": 98,
+    "totalOrders": 340,
+    "available": true,
+    "location": "Old Dhaka",
+    "areaId": "old-dhaka",
+    "zone": 4,
+    "joinedYear": 2023,
+    "lat": 23.713537,
+    "lng": 90.404096,
+    "minOrder": 180,
+    "specialityDays": {
+      "days": [
+        "Thursday",
+        "Friday"
+      ],
+      "dish": "Haleem"
+    },
+    "availableHours": {
+      "open": "07:00",
+      "close": "23:59"
+    },
+    "open24Hours": false,
+    "notAcceptingOrders": false
+  },
+  {
+    "id": "u009",
+    "name": "Lin Wei",
+    "avatar": "https://images.unsplash.com/photo-1552374196-c4e7ffc6e126?w=200&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1585032226651-759b368d7246?w=1200&q=80",
+    "bio": "Born in Chengdu, raised in Dhaka. I bring authentic Sichuan and Cantonese flavours to your doorstep — bold, aromatic, and unapologetically Chinese.",
+    "specialty": "Chinese",
+    "cuisines": [
+      "Chinese",
+      "Dim Sum",
+      "Sichuan"
+    ],
+    "rating": 4.8,
+    "totalReviews": 156,
+    "totalOrders": 620,
+    "available": true,
+    "location": "Gulshan, Dhaka",
+    "areaId": "gulshan",
+    "zone": 2,
+    "joinedYear": 2022,
+    "lat": 23.780175,
+    "lng": 90.410938,
+    "minOrder": 160,
+    "specialityDays": {
+      "days": [
+        "Saturday"
+      ],
+      "dish": "Dim Sum"
+    },
+    "availableHours": {
+      "open": "11:30",
+      "close": "22:30"
+    },
+    "notAcceptingOrders": true,
+    "open24Hours": false
+  },
+  {
+    "id": "u010",
+    "name": "Nipa Suwan",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1562565652-a0d8f0c59eb4?w=1200&q=80",
+    "bio": "Thai street food is my love language. Pad Thai, Green Curry, Tom Yum — every dish is made from scratch with imported Thai herbs and pastes.",
+    "specialty": "Thai",
+    "cuisines": [
+      "Thai",
+      "Street Food",
+      "Healthy"
+    ],
+    "rating": 4.7,
+    "totalReviews": 112,
+    "totalOrders": 430,
+    "available": true,
+    "location": "Banani, Dhaka",
+    "areaId": "banani",
+    "zone": 2,
+    "joinedYear": 2023,
+    "lat": 23.778549,
+    "lng": 90.414743,
+    "minOrder": 200,
+    "specialityDays": {
+      "days": [
+        "Sunday",
+        "Wednesday"
+      ],
+      "dish": "Pad Thai"
+    },
+    "availableHours": {
+      "open": "10:00",
+      "close": "21:30"
+    },
+    "notAcceptingOrders": false,
+    "open24Hours": false
+  },
+  {
+    "id": "u011",
+    "name": "Marco Rossi",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=1200&q=80",
+    "bio": "Italian-Bangladeshi fusion chef. My sourdough pizza base ferments for 48 hours, and every pasta is handmade. Nonna would approve.",
+    "specialty": "Italian & Pizza",
+    "cuisines": [
+      "Italian",
+      "Pizza",
+      "Pasta"
+    ],
+    "rating": 4.9,
+    "totalReviews": 203,
+    "totalOrders": 780,
+    "available": true,
+    "location": "Dhanmondi, Dhaka",
+    "areaId": "dhanmondi",
+    "zone": 1,
+    "joinedYear": 2021,
+    "lat": 23.742312,
+    "lng": 90.371791,
+    "minOrder": 250,
+    "specialityDays": {
+      "days": [
+        "Saturday"
+      ],
+      "dish": "Sunday Roast Pasta"
+    },
+    "availableHours": {
+      "open": "13:00",
+      "close": "23:00"
+    },
+    "notAcceptingOrders": false,
+    "open24Hours": false
+  },
+  {
+    "id": "u012",
+    "name": "Arjun Sharma",
+    "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=200&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=1200&q=80",
+    "bio": "North Indian comfort food specialist. From creamy butter chicken to crispy dosas, my kitchen smells like a proper Delhi dhaba every single day.",
+    "specialty": "North Indian",
+    "cuisines": [
+      "Indian",
+      "North Indian",
+      "Tandoor"
+    ],
+    "rating": 4.8,
+    "totalReviews": 178,
+    "totalOrders": 695,
+    "available": true,
+    "location": "Uttara, Dhaka",
+    "areaId": "uttara",
+    "zone": 5,
+    "joinedYear": 2022,
+    "lat": 23.877099,
+    "lng": 90.37986,
+    "minOrder": 200,
+    "specialityDays": {
+      "days": [
+        "Friday"
+      ],
+      "dish": "Butter Chicken"
+    },
+    "availableHours": {
+      "open": "09:30",
+      "close": "22:00"
+    },
+    "notAcceptingOrders": true,
+    "open24Hours": false
+  },
+  {
+    "id": "u013",
+    "name": "Tariq Al-Masri",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1529006557810-274b9b2fc783?w=1200&q=80",
+    "bio": "Grill master and BBQ aficionado. Slow-smoked ribs, charcoal wings, loaded burgers — I run a proper backyard bar-style kitchen with bold Western flavours.",
+    "specialty": "BBQ & Bar Food",
+    "cuisines": [
+      "BBQ",
+      "Bar Food",
+      "Western"
+    ],
+    "rating": 4.7,
+    "totalReviews": 134,
+    "totalOrders": 510,
+    "available": true,
+    "location": "Mohammadpur, Dhaka",
+    "areaId": "mohammadpur",
+    "zone": 6,
+    "joinedYear": 2023,
+    "lat": 23.791464,
+    "lng": 90.407314,
+    "minOrder": 180,
+    "specialityDays": {
+      "days": [
+        "Friday"
+      ],
+      "dish": "Lamb Ouzi"
+    },
+    "availableHours": {
+      "open": "16:00",
+      "close": "23:59"
+    },
+    "open24Hours": false,
+    "notAcceptingOrders": false
+  },
+  {
+    "id": "u014",
+    "name": "Yuki Tanaka",
+    "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=200&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1569050467447-ce54b3bbc37d?w=1200&q=80",
+    "bio": "Trained in Osaka, now cooking in Dhaka. My sushi rolls are tight, my ramen broth simmers for 12 hours, and my katsu is always crispy.",
+    "specialty": "Japanese",
+    "cuisines": [
+      "Japanese",
+      "Sushi",
+      "Ramen"
+    ],
+    "rating": 4.9,
+    "totalReviews": 189,
+    "totalOrders": 560,
+    "available": true,
+    "location": "Bashundhara, Dhaka",
+    "areaId": "bashundhara",
+    "zone": 7,
+    "joinedYear": 2022,
+    "lat": 23.759675,
+    "lng": 90.427852,
+    "minOrder": 220,
+    "specialityDays": {
+      "days": [
+        "Saturday"
+      ],
+      "dish": "Omakase Set"
+    },
+    "availableHours": {
+      "open": "12:00",
+      "close": "22:00"
+    },
+    "notAcceptingOrders": false,
+    "open24Hours": false
+  },
+  {
+    "id": "u015",
+    "name": "Amira Hassan",
+    "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=1200&q=80",
+    "bio": "Middle Eastern food is all about warmth and generosity. I cook shawarma, falafel, hummus and mezze platters the way my grandmother did in Cairo.",
+    "specialty": "Middle Eastern",
+    "cuisines": [
+      "Middle Eastern",
+      "Arabic",
+      "Mediterranean"
+    ],
+    "rating": 4.6,
+    "totalReviews": 98,
+    "totalOrders": 360,
+    "available": true,
+    "location": "Rampura, Dhaka",
+    "areaId": "rampura",
+    "zone": 3,
+    "joinedYear": 2023,
+    "lat": 23.824747,
+    "lng": 90.366985,
+    "minOrder": 160,
+    "specialityDays": {
+      "days": [
+        "Thursday"
+      ],
+      "dish": "Koshari"
+    },
+    "availableHours": {
+      "open": "10:00",
+      "close": "22:30"
+    },
+    "notAcceptingOrders": false,
+    "open24Hours": false
+  },
+  {
+    "id": "u016",
+    "name": "Sofia Mendez",
+    "avatar": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?w=200&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1464219789935-c2d9d9aba644?w=1200&q=80",
+    "bio": "Dessert chef and baker. Croissants, tiramisu, cheesecakes, lava cakes — I believe every meal deserves a perfect ending. Order a full dessert box or single servings.",
+    "specialty": "Desserts & Bakes",
+    "cuisines": [
+      "Desserts",
+      "Bakery",
+      "Continental"
+    ],
+    "rating": 4.8,
+    "totalReviews": 144,
+    "totalOrders": 490,
+    "available": true,
+    "location": "Mirpur, Dhaka",
+    "areaId": "mirpur",
+    "zone": 3,
+    "joinedYear": 2022,
+    "lat": 23.821022,
+    "lng": 90.362644,
+    "minOrder": 200,
+    "specialityDays": {
+      "days": [
+        "Sunday"
+      ],
+      "dish": "Tamales"
+    },
+    "availableHours": {
+      "open": "07:30",
+      "close": "17:00"
+    },
+    "notAcceptingOrders": false,
+    "open24Hours": false
+  },
+  {
+    "id": "u017",
+    "name": "Kim Ji-ho",
+    "avatar": "https://images.unsplash.com/photo-1463453091185-61582044d556?w=200&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=1200&q=80",
+    "bio": "K-food obsessed. Budae Jjigae, Tteokbokki, Korean fried chicken and bibimbap — all made with authentic gochujang and doenjang imported straight from Seoul.",
+    "specialty": "Korean",
+    "cuisines": [
+      "Korean",
+      "K-BBQ",
+      "Street Food"
+    ],
+    "rating": 4.7,
+    "totalReviews": 121,
+    "totalOrders": 415,
+    "available": true,
+    "location": "Motijheel, Dhaka",
+    "areaId": "motijheel",
+    "zone": 4,
+    "joinedYear": 2023,
+    "lat": 23.714058,
+    "lng": 90.406093,
+    "minOrder": 180,
+    "specialityDays": {
+      "days": [
+        "Saturday"
+      ],
+      "dish": "Korean BBQ Platter"
+    },
+    "availableHours": {
+      "open": "12:00",
+      "close": "22:30"
+    },
+    "notAcceptingOrders": true,
+    "open24Hours": false
+  },
+  {
+    "id": "u018",
+    "name": "Carlos Rivera",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=1200&q=80",
+    "bio": "Tex-Mex and Mexican food done right. My burritos are stuffed to the brim, tacos are always fresh, and the salsa is made every morning with ripe tomatoes.",
+    "specialty": "Mexican & Tex-Mex",
+    "cuisines": [
+      "Mexican",
+      "Tex-Mex",
+      "Western"
+    ],
+    "rating": 4.6,
+    "totalReviews": 87,
+    "totalOrders": 295,
+    "available": true,
+    "location": "Wari, Dhaka",
+    "areaId": "wari",
+    "zone": 4,
+    "joinedYear": 2023,
+    "lat": 23.707142,
+    "lng": 90.404174,
+    "minOrder": 250,
+    "specialityDays": {
+      "days": [
+        "Sunday"
+      ],
+      "dish": "Slow-cooked Carnitas"
+    },
+    "availableHours": {
+      "open": "11:00",
+      "close": "22:00"
+    },
+    "notAcceptingOrders": false,
+    "open24Hours": false
+  },
+  {
+    "id": "u019",
+    "name": "Fatema Khatun",
+    "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=200&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?w=1200&q=80",
+    "bio": "Born in Sylhet, I've been cooking Bangladeshi and Mughlai food for 20 years. My Kacchi Biryani uses 26 spices and is slow-cooked on dum since dawn.",
+    "specialty": "Bangladeshi & Mughlai",
+    "cuisines": [
+      "Bengali",
+      "Mughlai",
+      "Street Food"
+    ],
+    "rating": 4.9,
+    "totalReviews": 312,
+    "totalOrders": 1120,
+    "available": true,
+    "location": "Dhanmondi, Dhaka",
+    "areaId": "dhanmondi",
+    "zone": 1,
+    "joinedYear": 2021,
+    "lat": 23.74888,
+    "lng": 90.37503,
+    "minOrder": 150,
+    "specialityDays": {
+      "days": [
+        "Friday",
+        "Saturday"
+      ],
+      "dish": "Fuchka & Chotpoti Box"
+    },
+    "availableHours": {
+      "open": "08:00",
+      "close": "23:00"
+    },
+    "notAcceptingOrders": false,
+    "open24Hours": false
+  },
+  {
+    "id": "u020",
+    "name": "Chef Reza",
+    "avatar": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?w=200&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1544025162-d76694265947?w=1200&q=80",
+    "bio": "Healthy food shouldn't taste like punishment. I create clean, macro-balanced meals — salads, grain bowls, smoothie boxes — that are actually delicious.",
+    "specialty": "Healthy & Fitness",
+    "cuisines": [
+      "Healthy",
+      "Continental",
+      "Salads"
+    ],
+    "rating": 4.7,
+    "totalReviews": 98,
+    "totalOrders": 310,
+    "available": true,
+    "location": "Gulshan, Dhaka",
+    "areaId": "gulshan",
+    "zone": 2,
+    "joinedYear": 2023,
+    "lat": 23.783257,
+    "lng": 90.416538,
+    "minOrder": 200,
+    "specialityDays": {
+      "days": [
+        "Friday"
+      ],
+      "dish": "Beef Tehari"
+    },
+    "availableHours": {
+      "open": "06:30",
+      "close": "15:00"
+    },
+    "notAcceptingOrders": false,
+    "open24Hours": false
+  },
+  {
+    "id": "u021",
+    "name": "Mei Ling",
+    "avatar": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=200&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1563245372-f21724e3856d?w=1200&q=80",
+    "bio": "Cantonese-style cooking passed down from my grandmother in Hong Kong. Every sauce, every broth, every dumpling filling is made completely from scratch.",
+    "specialty": "Cantonese & Dim Sum",
+    "cuisines": [
+      "Chinese",
+      "Dim Sum",
+      "Cantonese"
+    ],
+    "rating": 4.8,
+    "totalReviews": 143,
+    "totalOrders": 520,
+    "available": true,
+    "location": "Banani, Dhaka",
+    "areaId": "banani",
+    "zone": 2,
+    "joinedYear": 2022,
+    "lat": 23.78109,
+    "lng": 90.418485,
+    "minOrder": 170,
+    "specialityDays": {
+      "days": [
+        "Saturday",
+        "Sunday"
+      ],
+      "dish": "Xiao Long Bao"
+    },
+    "availableHours": {
+      "open": "11:00",
+      "close": "21:30"
+    },
+    "notAcceptingOrders": false,
+    "open24Hours": false
+  },
+  {
+    "id": "u022",
+    "name": "Hamid Shaikh",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?w=1200&q=80",
+    "bio": "Kebab and grill specialist with 12 years of experience. My seekh kebabs, shish tawook and tikkas are marinated overnight in secret spice blends.",
+    "specialty": "Grills & Kebabs",
+    "cuisines": [
+      "BBQ",
+      "Middle Eastern",
+      "Mughlai"
+    ],
+    "rating": 4.8,
+    "totalReviews": 187,
+    "totalOrders": 650,
+    "available": true,
+    "location": "Mohammadpur, Dhaka",
+    "areaId": "mohammadpur",
+    "zone": 6,
+    "joinedYear": 2022,
+    "lat": 23.792728,
+    "lng": 90.407016,
+    "minOrder": 200,
+    "specialityDays": {
+      "days": [
+        "Friday"
+      ],
+      "dish": "Nihari"
+    },
+    "availableHours": {
+      "open": "00:00",
+      "close": "23:59"
+    },
+    "open24Hours": true,
+    "notAcceptingOrders": false
+  },
+  {
+    "id": "u023",
+    "name": "Pita Somchai",
+    "avatar": "https://images.unsplash.com/photo-1463453091185-61582044d556?w=200&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1562565652-a0d8f0c59eb4?w=1200&q=80",
+    "bio": "From Bangkok to Dhaka — I bring the real flavours of Thailand with fresh galangal, kaffir lime, and lemongrass sourced weekly from Thailand Town.",
+    "specialty": "Thai & Southeast Asian",
+    "cuisines": [
+      "Thai",
+      "Vietnamese",
+      "Healthy"
+    ],
+    "rating": 4.7,
+    "totalReviews": 112,
+    "totalOrders": 390,
+    "available": true,
+    "location": "Uttara, Dhaka",
+    "areaId": "uttara",
+    "zone": 5,
+    "joinedYear": 2023,
+    "lat": 23.878535,
+    "lng": 90.380448,
+    "minOrder": 160,
+    "specialityDays": {
+      "days": [
+        "Saturday"
+      ],
+      "dish": "Som Tum Set"
+    },
+    "availableHours": {
+      "open": "09:00",
+      "close": "20:00"
+    },
+    "notAcceptingOrders": true,
+    "open24Hours": false
+  },
+  {
+    "id": "u024",
+    "name": "Giulia Conti",
+    "avatar": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?w=200&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=1200&q=80",
+    "bio": "Roman-trained pastry chef and pasta maker. Handmade lasagne, fresh gnocchi, and authentic tiramisu — every Sunday is like an Italian family dinner.",
+    "specialty": "Italian & Pastry",
+    "cuisines": [
+      "Italian",
+      "Desserts",
+      "Bakery"
+    ],
+    "rating": 4.9,
+    "totalReviews": 168,
+    "totalOrders": 590,
+    "available": true,
+    "location": "Bashundhara, Dhaka",
+    "areaId": "bashundhara",
+    "zone": 7,
+    "joinedYear": 2022,
+    "lat": 23.760094,
+    "lng": 90.432419,
+    "minOrder": 250,
+    "specialityDays": {
+      "days": [
+        "Sunday"
+      ],
+      "dish": "Wood-fired Lasagna"
+    },
+    "availableHours": {
+      "open": "08:00",
+      "close": "18:00"
+    },
+    "notAcceptingOrders": false,
+    "open24Hours": false
+  },
+  {
+    "id": "u025",
+    "name": "Ahmed Okonkwo",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&q=80",
+    "coverImage": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=1200&q=80",
+    "bio": "West African and Continental fusion chef. Jollof rice, suya skewers, peri-peri chicken — bold spices and big flavours you won't find anywhere else in Dhaka.",
+    "specialty": "African & Continental",
+    "cuisines": [
+      "African",
+      "Continental",
+      "BBQ"
+    ],
+    "rating": 4.6,
+    "totalReviews": 76,
+    "totalOrders": 240,
+    "available": true,
+    "location": "Mirpur, Dhaka",
+    "areaId": "mirpur",
+    "zone": 3,
+    "joinedYear": 2023,
+    "lat": 23.823937,
+    "lng": 90.361767,
+    "minOrder": 180,
+    "specialityDays": {
+      "days": [
+        "Wednesday",
+        "Saturday"
+      ],
+      "dish": "Jollof Rice"
+    },
+    "availableHours": {
+      "open": "13:00",
+      "close": "23:00"
+    },
+    "notAcceptingOrders": false,
+    "open24Hours": false
+  }
+]

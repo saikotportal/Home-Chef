@@ -1,0 +1,2783 @@
+[
+  {
+    "id": "m001",
+    "chefId": "u001",
+    "name": "Shorshe Ilish",
+    "description": "Classic Bengali hilsa fish cooked in a rich mustard sauce. Served with steamed white rice. A true taste of Bengal.",
+    "price": 280,
+    "category": "Bengali",
+    "image": "https://images.unsplash.com/photo-1626201850129-a6b34ca0e2d2?w=600&q=80",
+    "tags": [
+      "spicy",
+      "fish",
+      "traditional",
+      "bestseller"
+    ],
+    "available": true,
+    "prepTime": "30 min",
+    "rating": 4.9,
+    "totalOrders": 312,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Rice",
+        "price": 30
+      },
+      {
+        "id": "a2",
+        "name": "Extra Mustard Gravy",
+        "price": 40
+      },
+      {
+        "id": "a3",
+        "name": "Fried Hilsa Piece",
+        "price": 80
+      }
+    ]
+  },
+  {
+    "id": "m002",
+    "chefId": "u001",
+    "name": "Chingri Malai Curry",
+    "description": "Juicy prawns slow-cooked in a creamy coconut milk gravy. A festive Bengali favourite.",
+    "price": 320,
+    "category": "Bengali",
+    "image": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?w=600&q=80",
+    "tags": [
+      "prawns",
+      "coconut",
+      "creamy"
+    ],
+    "available": true,
+    "prepTime": "35 min",
+    "rating": 4.8,
+    "totalOrders": 198,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Prawns (3 pcs)",
+        "price": 60
+      },
+      {
+        "id": "a2",
+        "name": "Extra Coconut Gravy",
+        "price": 35
+      },
+      {
+        "id": "a3",
+        "name": "Steamed Rice",
+        "price": 30
+      }
+    ]
+  },
+  {
+    "id": "m003",
+    "chefId": "u001",
+    "name": "Beef Bhuna",
+    "description": "Slow-cooked beef with whole spices, caramelised onions and a thick dry gravy. Best with paratha.",
+    "price": 250,
+    "category": "Bengali",
+    "image": "https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?w=600&q=80",
+    "tags": [
+      "beef",
+      "spicy",
+      "dry curry"
+    ],
+    "available": true,
+    "prepTime": "60 min",
+    "rating": 4.7,
+    "totalOrders": 156,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Beef Pieces",
+        "price": 70
+      },
+      {
+        "id": "a2",
+        "name": "Paratha (2 pcs)",
+        "price": 30
+      },
+      {
+        "id": "a3",
+        "name": "Sliced Onion Salad",
+        "price": 15
+      },
+      {
+        "id": "a4",
+        "name": "Green Chilli",
+        "price": 10
+      }
+    ]
+  },
+  {
+    "id": "m004",
+    "chefId": "u001",
+    "name": "Vegetable Khichuri",
+    "description": "Comforting one-pot rice and lentil dish with seasonal vegetables. Perfect for rainy days.",
+    "price": 120,
+    "category": "Bengali",
+    "image": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?w=600&q=80",
+    "tags": [
+      "vegetarian",
+      "comfort food",
+      "light"
+    ],
+    "available": true,
+    "prepTime": "25 min",
+    "rating": 4.6,
+    "totalOrders": 89,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Begun Bhaja (2 pcs)",
+        "price": 25
+      },
+      {
+        "id": "a2",
+        "name": "Fried Egg",
+        "price": 20
+      },
+      {
+        "id": "a3",
+        "name": "Pickle on the Side",
+        "price": 10
+      }
+    ]
+  },
+  {
+    "id": "m005",
+    "chefId": "u002",
+    "name": "Kacchi Biryani",
+    "description": "Authentic dum biryani with marinated mutton layered with fragrant basmati rice, saffron and fried onions.",
+    "price": 380,
+    "category": "Mughlai",
+    "image": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?w=600&q=80",
+    "tags": [
+      "mutton",
+      "biryani",
+      "dum",
+      "bestseller"
+    ],
+    "available": true,
+    "prepTime": "90 min",
+    "rating": 4.9,
+    "totalOrders": 421,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Mutton Piece",
+        "price": 90
+      },
+      {
+        "id": "a2",
+        "name": "Borhani (glass)",
+        "price": 40
+      },
+      {
+        "id": "a3",
+        "name": "Shami Kebab (2 pcs)",
+        "price": 60
+      },
+      {
+        "id": "a4",
+        "name": "Raita",
+        "price": 25
+      },
+      {
+        "id": "a5",
+        "name": "Extra Rice (half plate)",
+        "price": 50
+      }
+    ]
+  },
+  {
+    "id": "m006",
+    "chefId": "u002",
+    "name": "Mutton Rezala",
+    "description": "Silky white gravy with tender mutton, yoghurt, rose water and Mughlai spices. A royal dish.",
+    "price": 340,
+    "category": "Mughlai",
+    "image": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?w=600&q=80",
+    "tags": [
+      "mutton",
+      "white gravy",
+      "royal"
+    ],
+    "available": true,
+    "prepTime": "75 min",
+    "rating": 4.8,
+    "totalOrders": 203,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Mutton (2 pcs)",
+        "price": 85
+      },
+      {
+        "id": "a2",
+        "name": "Naan (2 pcs)",
+        "price": 40
+      },
+      {
+        "id": "a3",
+        "name": "Rose Water Sharbat",
+        "price": 30
+      }
+    ]
+  },
+  {
+    "id": "m007",
+    "chefId": "u002",
+    "name": "Chicken Tikka BBQ",
+    "description": "Smoky tandoor-style chicken tikka marinated overnight in yoghurt and spices. Served with mint chutney.",
+    "price": 220,
+    "category": "BBQ",
+    "image": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=600&q=80",
+    "tags": [
+      "chicken",
+      "bbq",
+      "smoky"
+    ],
+    "available": true,
+    "prepTime": "45 min",
+    "rating": 4.7,
+    "totalOrders": 167,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Tikka Pieces (2)",
+        "price": 55
+      },
+      {
+        "id": "a2",
+        "name": "Extra Mint Chutney",
+        "price": 15
+      },
+      {
+        "id": "a3",
+        "name": "Garlic Naan",
+        "price": 35
+      },
+      {
+        "id": "a4",
+        "name": "Grilled Onion & Pepper",
+        "price": 20
+      }
+    ]
+  },
+  {
+    "id": "m008",
+    "chefId": "u002",
+    "name": "Beef Kala Bhuna",
+    "description": "Chittagong-style deep dark beef curry with a thick, rich masala. Slow cooked for 3 hours.",
+    "price": 290,
+    "category": "Bengali",
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?w=600&q=80",
+    "tags": [
+      "beef",
+      "dark curry",
+      "chittagong"
+    ],
+    "available": false,
+    "prepTime": "180 min",
+    "rating": 4.9,
+    "totalOrders": 78,
+    "addons": []
+  },
+  {
+    "id": "m009",
+    "chefId": "u003",
+    "name": "Dal Makhani",
+    "description": "Creamy black lentils slow-cooked overnight with butter, cream and tomatoes. A north Indian classic.",
+    "price": 150,
+    "category": "Indian",
+    "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=600&q=80",
+    "tags": [
+      "vegetarian",
+      "lentils",
+      "creamy"
+    ],
+    "available": true,
+    "prepTime": "40 min",
+    "rating": 4.7,
+    "totalOrders": 134,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Butter Dollop",
+        "price": 20
+      },
+      {
+        "id": "a2",
+        "name": "Garlic Naan (2 pcs)",
+        "price": 40
+      },
+      {
+        "id": "a3",
+        "name": "Basmati Rice",
+        "price": 30
+      }
+    ]
+  },
+  {
+    "id": "m010",
+    "chefId": "u003",
+    "name": "Paneer Butter Masala",
+    "description": "Soft cottage cheese cubes in a velvety tomato-butter gravy with aromatic spices. Best with naan.",
+    "price": 180,
+    "category": "Indian",
+    "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=600&q=80",
+    "tags": [
+      "vegetarian",
+      "paneer",
+      "buttery"
+    ],
+    "available": true,
+    "prepTime": "30 min",
+    "rating": 4.6,
+    "totalOrders": 112,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Paneer (50g)",
+        "price": 45
+      },
+      {
+        "id": "a2",
+        "name": "Butter Naan (2 pcs)",
+        "price": 40
+      },
+      {
+        "id": "a3",
+        "name": "Fresh Cream Topping",
+        "price": 25
+      },
+      {
+        "id": "a4",
+        "name": "Steamed Rice",
+        "price": 30
+      }
+    ]
+  },
+  {
+    "id": "m011",
+    "chefId": "u003",
+    "name": "Aloo Paratha Combo",
+    "description": "3 stuffed flatbreads with spiced potato filling. Served with homemade yoghurt and mango pickle.",
+    "price": 110,
+    "category": "Indian",
+    "image": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=600&q=80",
+    "tags": [
+      "vegetarian",
+      "bread",
+      "breakfast"
+    ],
+    "available": true,
+    "prepTime": "20 min",
+    "rating": 4.5,
+    "totalOrders": 87,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Paratha (1 pc)",
+        "price": 20
+      },
+      {
+        "id": "a2",
+        "name": "Extra Yoghurt",
+        "price": 15
+      },
+      {
+        "id": "a3",
+        "name": "Butter on Top",
+        "price": 15
+      },
+      {
+        "id": "a4",
+        "name": "Mixed Pickle",
+        "price": 10
+      }
+    ]
+  },
+  {
+    "id": "m012",
+    "chefId": "u004",
+    "name": "Old Dhaka Haleem",
+    "description": "Traditional slow-cooked haleem with beef, lentils and broken wheat. Topped with fried onions and lemon.",
+    "price": 160,
+    "category": "Street Food",
+    "image": "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?w=600&q=80",
+    "tags": [
+      "haleem",
+      "beef",
+      "street food",
+      "bestseller"
+    ],
+    "available": false,
+    "prepTime": "120 min",
+    "rating": 4.8,
+    "totalOrders": 198,
+    "addons": []
+  },
+  {
+    "id": "m013",
+    "chefId": "u004",
+    "name": "Fuchka Platter (10 pcs)",
+    "description": "Crispy hollow puris filled with spiced tamarind water, chickpeas and potato. The ultimate street snack.",
+    "price": 80,
+    "category": "Street Food",
+    "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=600&q=80",
+    "tags": [
+      "snack",
+      "street food",
+      "tangy"
+    ],
+    "available": false,
+    "prepTime": "15 min",
+    "rating": 4.7,
+    "totalOrders": 156,
+    "addons": []
+  },
+  {
+    "id": "m014",
+    "chefId": "u009",
+    "name": "Kung Pao Chicken",
+    "description": "Spicy stir-fried chicken with roasted peanuts, dried chilies and Sichuan peppercorns. Fiery, numbing, and absolutely addictive.",
+    "price": 240,
+    "category": "Chinese",
+    "image": "https://images.unsplash.com/photo-1525755662778-989d0524087e?w=600&q=80",
+    "tags": [
+      "spicy",
+      "chicken",
+      "sichuan",
+      "bestseller"
+    ],
+    "available": true,
+    "prepTime": "20 min",
+    "rating": 4.8,
+    "totalOrders": 234,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Peanuts",
+        "price": 15
+      },
+      {
+        "id": "a2",
+        "name": "Steamed Jasmine Rice",
+        "price": 30
+      },
+      {
+        "id": "a3",
+        "name": "Extra Chili Oil",
+        "price": 10
+      },
+      {
+        "id": "a4",
+        "name": "Spring Roll (2 pcs)",
+        "price": 50
+      }
+    ]
+  },
+  {
+    "id": "m015",
+    "chefId": "u009",
+    "name": "Dim Sum Platter (12 pcs)",
+    "description": "Assorted steamed dumplings \u2014 har gow, siu mai and pork chive \u2014 served in bamboo steamers with soy dipping sauce.",
+    "price": 320,
+    "category": "Chinese",
+    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d?w=600&q=80",
+    "tags": [
+      "dumplings",
+      "dim sum",
+      "steamed"
+    ],
+    "available": true,
+    "prepTime": "35 min",
+    "rating": 4.9,
+    "totalOrders": 312,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Dipping Sauce",
+        "price": 20
+      },
+      {
+        "id": "a2",
+        "name": "Chili Garlic Oil",
+        "price": 15
+      },
+      {
+        "id": "a3",
+        "name": "Extra 6 pcs",
+        "price": 160
+      },
+      {
+        "id": "a4",
+        "name": "Jasmine Tea (pot)",
+        "price": 40
+      }
+    ]
+  },
+  {
+    "id": "m016",
+    "chefId": "u009",
+    "name": "Beef Fried Rice",
+    "description": "Wok-tossed jasmine rice with tender beef strips, egg, spring onions and dark soy. Classic Chinese takeaway done properly at home.",
+    "price": 200,
+    "category": "Chinese",
+    "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=600&q=80",
+    "tags": [
+      "rice",
+      "beef",
+      "wok"
+    ],
+    "available": true,
+    "prepTime": "15 min",
+    "rating": 4.7,
+    "totalOrders": 189,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Egg",
+        "price": 20
+      },
+      {
+        "id": "a2",
+        "name": "Extra Beef Strips",
+        "price": 60
+      },
+      {
+        "id": "a3",
+        "name": "Prawn Crackers",
+        "price": 30
+      }
+    ]
+  },
+  {
+    "id": "m017",
+    "chefId": "u010",
+    "name": "Pad Thai",
+    "description": "Rice noodles stir-fried with shrimp, tofu, bean sprouts, egg and crushed peanuts in a tangy tamarind sauce. Garnished with lime.",
+    "price": 260,
+    "category": "Thai",
+    "image": "https://images.unsplash.com/photo-1559314809-0d155014e29e?w=600&q=80",
+    "tags": [
+      "noodles",
+      "shrimp",
+      "bestseller",
+      "thai"
+    ],
+    "available": true,
+    "prepTime": "20 min",
+    "rating": 4.8,
+    "totalOrders": 278,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Shrimp (5 pcs)",
+        "price": 70
+      },
+      {
+        "id": "a2",
+        "name": "Extra Peanuts",
+        "price": 15
+      },
+      {
+        "id": "a3",
+        "name": "Extra Lime Wedges",
+        "price": 10
+      },
+      {
+        "id": "a4",
+        "name": "Thai Iced Tea",
+        "price": 45
+      }
+    ]
+  },
+  {
+    "id": "m018",
+    "chefId": "u010",
+    "name": "Green Curry with Chicken",
+    "description": "Fragrant Thai green curry with coconut milk, chicken, Thai basil, kaffir lime and galangal. Served with steamed jasmine rice.",
+    "price": 280,
+    "category": "Thai",
+    "image": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?w=600&q=80",
+    "tags": [
+      "curry",
+      "coconut",
+      "thai",
+      "creamy"
+    ],
+    "available": true,
+    "prepTime": "30 min",
+    "rating": 4.7,
+    "totalOrders": 198,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Chicken",
+        "price": 60
+      },
+      {
+        "id": "a2",
+        "name": "Roti Canai (2 pcs)",
+        "price": 40
+      },
+      {
+        "id": "a3",
+        "name": "Extra Coconut Gravy",
+        "price": 35
+      },
+      {
+        "id": "a4",
+        "name": "Sticky Rice",
+        "price": 30
+      }
+    ]
+  },
+  {
+    "id": "m019",
+    "chefId": "u010",
+    "name": "Tom Yum Soup",
+    "description": "Hot and sour Thai soup with mushrooms, lemongrass, galangal, kaffir lime leaves and plump prawns. A clear bowl of pure comfort.",
+    "price": 220,
+    "category": "Thai",
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?w=600&q=80",
+    "tags": [
+      "soup",
+      "spicy",
+      "prawns",
+      "healthy"
+    ],
+    "available": true,
+    "prepTime": "25 min",
+    "rating": 4.6,
+    "totalOrders": 143,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Prawns",
+        "price": 65
+      },
+      {
+        "id": "a2",
+        "name": "Extra Mushrooms",
+        "price": 25
+      },
+      {
+        "id": "a3",
+        "name": "Steamed Rice",
+        "price": 30
+      }
+    ]
+  },
+  {
+    "id": "m020",
+    "chefId": "u011",
+    "name": "Margherita Pizza",
+    "description": "48-hour fermented sourdough base with San Marzano tomato sauce, fresh buffalo mozzarella and basil. Simple and perfect.",
+    "price": 350,
+    "category": "Pizza",
+    "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=600&q=80",
+    "tags": [
+      "pizza",
+      "vegetarian",
+      "classic",
+      "bestseller"
+    ],
+    "available": true,
+    "prepTime": "25 min",
+    "rating": 4.9,
+    "totalOrders": 421,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Mozzarella",
+        "price": 60
+      },
+      {
+        "id": "a2",
+        "name": "Extra Basil",
+        "price": 15
+      },
+      {
+        "id": "a3",
+        "name": "Stuffed Crust",
+        "price": 50
+      },
+      {
+        "id": "a4",
+        "name": "Truffle Oil Drizzle",
+        "price": 40
+      },
+      {
+        "id": "a5",
+        "name": "Garlic Bread (2 pcs)",
+        "price": 60
+      }
+    ]
+  },
+  {
+    "id": "m021",
+    "chefId": "u011",
+    "name": "Pepperoni Pizza",
+    "description": "Loaded with double pepperoni on a tomato base with mozzarella. Edges crisp, centre gooey \u2014 cooked in a pizza stone oven.",
+    "price": 400,
+    "category": "Pizza",
+    "image": "https://images.unsplash.com/photo-1628840042765-356cda07504e?w=600&q=80",
+    "tags": [
+      "pizza",
+      "pepperoni",
+      "meat",
+      "bestseller"
+    ],
+    "available": true,
+    "prepTime": "25 min",
+    "rating": 4.9,
+    "totalOrders": 387,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Pepperoni",
+        "price": 70
+      },
+      {
+        "id": "a2",
+        "name": "Extra Cheese",
+        "price": 60
+      },
+      {
+        "id": "a3",
+        "name": "Jalape\u00f1os",
+        "price": 20
+      },
+      {
+        "id": "a4",
+        "name": "Stuffed Crust",
+        "price": 50
+      },
+      {
+        "id": "a5",
+        "name": "Corn & Capsicum",
+        "price": 30
+      }
+    ]
+  },
+  {
+    "id": "m022",
+    "chefId": "u011",
+    "name": "Spaghetti Carbonara",
+    "description": "Handmade spaghetti with guanciale, egg yolk, Pecorino Romano and cracked black pepper. No cream \u2014 just the real Roman way.",
+    "price": 320,
+    "category": "Italian",
+    "image": "https://images.unsplash.com/photo-1612874742237-6526221588e3?w=600&q=80",
+    "tags": [
+      "pasta",
+      "italian",
+      "creamy"
+    ],
+    "available": true,
+    "prepTime": "30 min",
+    "rating": 4.8,
+    "totalOrders": 256,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Guanciale",
+        "price": 55
+      },
+      {
+        "id": "a2",
+        "name": "Extra Cheese",
+        "price": 40
+      },
+      {
+        "id": "a3",
+        "name": "Garlic Bread",
+        "price": 50
+      },
+      {
+        "id": "a4",
+        "name": "Side Caesar Salad",
+        "price": 80
+      }
+    ]
+  },
+  {
+    "id": "m023",
+    "chefId": "u011",
+    "name": "Penne Arrabbiata",
+    "description": "Penne in a fiery tomato and garlic sauce with fresh chili and Italian parsley. Bold, simple, vegan-friendly Italian perfection.",
+    "price": 260,
+    "category": "Italian",
+    "image": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=600&q=80",
+    "tags": [
+      "pasta",
+      "vegan",
+      "spicy",
+      "italian"
+    ],
+    "available": true,
+    "prepTime": "25 min",
+    "rating": 4.7,
+    "totalOrders": 178,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Add Chicken",
+        "price": 70
+      },
+      {
+        "id": "a2",
+        "name": "Add Prawns",
+        "price": 90
+      },
+      {
+        "id": "a3",
+        "name": "Parmesan Topping",
+        "price": 35
+      },
+      {
+        "id": "a4",
+        "name": "Garlic Bread",
+        "price": 50
+      }
+    ]
+  },
+  {
+    "id": "m024",
+    "chefId": "u012",
+    "name": "Butter Chicken",
+    "description": "Tender tandoor-charred chicken in a velvety tomato and cream gravy. Rich, mildly spiced and deeply satisfying with naan.",
+    "price": 280,
+    "category": "Indian",
+    "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=600&q=80",
+    "tags": [
+      "chicken",
+      "creamy",
+      "indian",
+      "bestseller"
+    ],
+    "available": true,
+    "prepTime": "35 min",
+    "rating": 4.9,
+    "totalOrders": 398,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Gravy",
+        "price": 40
+      },
+      {
+        "id": "a2",
+        "name": "Butter Naan (2 pcs)",
+        "price": 50
+      },
+      {
+        "id": "a3",
+        "name": "Jeera Rice",
+        "price": 60
+      },
+      {
+        "id": "a4",
+        "name": "Raita",
+        "price": 25
+      }
+    ]
+  },
+  {
+    "id": "m025",
+    "chefId": "u012",
+    "name": "Masala Dosa",
+    "description": "Crispy golden crepe made from fermented rice and lentil batter, filled with spiced potato. Served with coconut chutney and sambar.",
+    "price": 160,
+    "category": "Indian",
+    "image": "https://images.unsplash.com/photo-1610192244261-3f33de3f55e4?w=600&q=80",
+    "tags": [
+      "south indian",
+      "vegetarian",
+      "crispy",
+      "breakfast"
+    ],
+    "available": true,
+    "prepTime": "20 min",
+    "rating": 4.7,
+    "totalOrders": 213,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Coconut Chutney",
+        "price": 20
+      },
+      {
+        "id": "a2",
+        "name": "Extra Sambar Bowl",
+        "price": 30
+      },
+      {
+        "id": "a3",
+        "name": "Add Cheese Filling",
+        "price": 40
+      },
+      {
+        "id": "a4",
+        "name": "Onion Uttapam (1 pc)",
+        "price": 60
+      }
+    ]
+  },
+  {
+    "id": "m026",
+    "chefId": "u012",
+    "name": "Lamb Rogan Josh",
+    "description": "Slow-cooked Kashmiri lamb in a deep aromatic gravy of whole spices, dried chilies and browned onions. A royal mountain dish.",
+    "price": 340,
+    "category": "Indian",
+    "image": "https://images.unsplash.com/photo-1548943487-a2e4e43b4853?w=600&q=80",
+    "tags": [
+      "lamb",
+      "kashmiri",
+      "spicy",
+      "slow-cooked"
+    ],
+    "available": true,
+    "prepTime": "70 min",
+    "rating": 4.8,
+    "totalOrders": 167,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Lamb (2 pcs)",
+        "price": 80
+      },
+      {
+        "id": "a2",
+        "name": "Saffron Basmati Rice",
+        "price": 70
+      },
+      {
+        "id": "a3",
+        "name": "Tandoori Roti (2 pcs)",
+        "price": 40
+      }
+    ]
+  },
+  {
+    "id": "m027",
+    "chefId": "u013",
+    "name": "Smoked BBQ Ribs",
+    "description": "Pork ribs slow-smoked with hickory for 5 hours, glazed with house BBQ sauce. Fall-off-the-bone tender with a charred bark crust.",
+    "price": 480,
+    "category": "BBQ",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=600&q=80",
+    "tags": [
+      "ribs",
+      "pork",
+      "smoked",
+      "bestseller"
+    ],
+    "available": true,
+    "prepTime": "90 min",
+    "rating": 4.8,
+    "totalOrders": 198,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra BBQ Sauce",
+        "price": 25
+      },
+      {
+        "id": "a2",
+        "name": "Coleslaw Side",
+        "price": 50
+      },
+      {
+        "id": "a3",
+        "name": "Corn on the Cob",
+        "price": 40
+      },
+      {
+        "id": "a4",
+        "name": "Loaded Fries",
+        "price": 80
+      }
+    ]
+  },
+  {
+    "id": "m028",
+    "chefId": "u013",
+    "name": "Double Smash Burger",
+    "description": "Two smashed beef patties with American cheese, caramelised onions, pickles, mustard and special sauce in a brioche bun.",
+    "price": 320,
+    "category": "Bar Food",
+    "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=600&q=80",
+    "tags": [
+      "burger",
+      "beef",
+      "smash",
+      "bestseller"
+    ],
+    "available": true,
+    "prepTime": "20 min",
+    "rating": 4.9,
+    "totalOrders": 356,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Patty",
+        "price": 100
+      },
+      {
+        "id": "a2",
+        "name": "Add Bacon",
+        "price": 60
+      },
+      {
+        "id": "a3",
+        "name": "Loaded Fries",
+        "price": 80
+      },
+      {
+        "id": "a4",
+        "name": "Onion Rings",
+        "price": 60
+      },
+      {
+        "id": "a5",
+        "name": "Extra Cheese Slice",
+        "price": 25
+      }
+    ]
+  },
+  {
+    "id": "m029",
+    "chefId": "u013",
+    "name": "BBQ Chicken Wings (10 pcs)",
+    "description": "Charcoal-grilled wings glazed in smoky honey-chipotle BBQ sauce. Crispy outside, juicy inside, with blue cheese dip on the side.",
+    "price": 260,
+    "category": "Bar Food",
+    "image": "https://images.unsplash.com/photo-1527477396000-e27163b481c2?w=600&q=80",
+    "tags": [
+      "wings",
+      "chicken",
+      "bbq",
+      "spicy"
+    ],
+    "available": true,
+    "prepTime": "30 min",
+    "rating": 4.7,
+    "totalOrders": 287,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra 5 Wings",
+        "price": 130
+      },
+      {
+        "id": "a2",
+        "name": "Extra Blue Cheese Dip",
+        "price": 30
+      },
+      {
+        "id": "a3",
+        "name": "Celery & Carrot Sticks",
+        "price": 25
+      },
+      {
+        "id": "a4",
+        "name": "Loaded Fries",
+        "price": 80
+      }
+    ]
+  },
+  {
+    "id": "m030",
+    "chefId": "u014",
+    "name": "Tonkotsu Ramen",
+    "description": "12-hour pork bone broth with wavy noodles, chashu pork belly, soft-boiled marinated egg, nori and bamboo shoots. Soul in a bowl.",
+    "price": 380,
+    "category": "Japanese",
+    "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=600&q=80",
+    "tags": [
+      "ramen",
+      "pork",
+      "japanese",
+      "bestseller"
+    ],
+    "available": true,
+    "prepTime": "15 min",
+    "rating": 4.9,
+    "totalOrders": 312,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Chashu Pork (2 slices)",
+        "price": 70
+      },
+      {
+        "id": "a2",
+        "name": "Extra Soft-Boiled Egg",
+        "price": 30
+      },
+      {
+        "id": "a3",
+        "name": "Extra Noodles",
+        "price": 40
+      },
+      {
+        "id": "a4",
+        "name": "Corn & Butter Topping",
+        "price": 25
+      },
+      {
+        "id": "a5",
+        "name": "Gyoza (4 pcs)",
+        "price": 90
+      }
+    ]
+  },
+  {
+    "id": "m031",
+    "chefId": "u014",
+    "name": "Spicy Tuna Sushi Roll (8 pcs)",
+    "description": "Hand-rolled sushi with fresh tuna, sriracha mayo, cucumber and avocado, wrapped in nori and seasoned rice. Topped with tobiko.",
+    "price": 340,
+    "category": "Japanese",
+    "image": "https://images.unsplash.com/photo-1617196034183-421b4040ed20?w=600&q=80",
+    "tags": [
+      "sushi",
+      "tuna",
+      "japanese",
+      "fresh"
+    ],
+    "available": true,
+    "prepTime": "25 min",
+    "rating": 4.8,
+    "totalOrders": 256,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Wasabi",
+        "price": 15
+      },
+      {
+        "id": "a2",
+        "name": "Extra Soy Sauce",
+        "price": 10
+      },
+      {
+        "id": "a3",
+        "name": "Extra 4 pcs",
+        "price": 175
+      },
+      {
+        "id": "a4",
+        "name": "Miso Soup",
+        "price": 60
+      }
+    ]
+  },
+  {
+    "id": "m032",
+    "chefId": "u014",
+    "name": "Chicken Katsu Curry",
+    "description": "Panko-crumbed chicken cutlet on steamed Japanese rice, drizzled with rich golden curry sauce and pickled radish on the side.",
+    "price": 300,
+    "category": "Japanese",
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?w=600&q=80",
+    "tags": [
+      "katsu",
+      "curry",
+      "chicken",
+      "crispy"
+    ],
+    "available": true,
+    "prepTime": "30 min",
+    "rating": 4.7,
+    "totalOrders": 198,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Curry Sauce",
+        "price": 40
+      },
+      {
+        "id": "a2",
+        "name": "Extra Katsu Piece",
+        "price": 100
+      },
+      {
+        "id": "a3",
+        "name": "Pickled Ginger",
+        "price": 20
+      }
+    ]
+  },
+  {
+    "id": "m033",
+    "chefId": "u015",
+    "name": "Chicken Shawarma Wrap",
+    "description": "Marinated chicken slow-roasted on a vertical spit, shaved and wrapped in warm flatbread with garlic sauce, pickles and fresh tomatoes.",
+    "price": 200,
+    "category": "Middle Eastern",
+    "image": "https://images.unsplash.com/photo-1561651188-d207bbec4ec3?w=600&q=80",
+    "tags": [
+      "shawarma",
+      "chicken",
+      "wrap",
+      "bestseller"
+    ],
+    "available": true,
+    "prepTime": "15 min",
+    "rating": 4.7,
+    "totalOrders": 312,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Garlic Sauce",
+        "price": 20
+      },
+      {
+        "id": "a2",
+        "name": "Add Fries Inside",
+        "price": 40
+      },
+      {
+        "id": "a3",
+        "name": "Extra Pickles",
+        "price": 10
+      },
+      {
+        "id": "a4",
+        "name": "Upgrade to Mutton",
+        "price": 60
+      }
+    ]
+  },
+  {
+    "id": "m034",
+    "chefId": "u015",
+    "name": "Falafel & Hummus Platter",
+    "description": "Crispy golden falafel balls with creamy homemade hummus, tabbouleh, warm pita bread and a drizzle of olive oil and za'atar.",
+    "price": 240,
+    "category": "Middle Eastern",
+    "image": "https://images.unsplash.com/photo-1498747932769-c88de4a21ebe?w=600&q=80",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "falafel",
+      "healthy"
+    ],
+    "available": true,
+    "prepTime": "20 min",
+    "rating": 4.6,
+    "totalOrders": 178,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Pita Bread (2 pcs)",
+        "price": 30
+      },
+      {
+        "id": "a2",
+        "name": "Extra Hummus Portion",
+        "price": 50
+      },
+      {
+        "id": "a3",
+        "name": "Add Halloumi Slices",
+        "price": 70
+      },
+      {
+        "id": "a4",
+        "name": "Extra Falafel (4 pcs)",
+        "price": 60
+      }
+    ]
+  },
+  {
+    "id": "m035",
+    "chefId": "u015",
+    "name": "Mixed Mezze Board",
+    "description": "A generous spread of hummus, baba ghanoush, muhammara, labneh, olives, stuffed vine leaves, warm flatbread and crudit\u00e9s.",
+    "price": 420,
+    "category": "Middle Eastern",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=600&q=80",
+    "tags": [
+      "sharing",
+      "vegetarian",
+      "mezze",
+      "party"
+    ],
+    "available": true,
+    "prepTime": "20 min",
+    "rating": 4.8,
+    "totalOrders": 134,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Flatbread (4 pcs)",
+        "price": 50
+      },
+      {
+        "id": "a2",
+        "name": "Add Chicken Skewers",
+        "price": 100
+      },
+      {
+        "id": "a3",
+        "name": "Add Lamb Kofta (3 pcs)",
+        "price": 120
+      }
+    ]
+  },
+  {
+    "id": "m036",
+    "chefId": "u016",
+    "name": "Classic Tiramisu",
+    "description": "Ladyfinger biscuits soaked in espresso and Kahlua, layered with mascarpone cream and dusted with dark cocoa. Chilled 12 hours.",
+    "price": 200,
+    "category": "Desserts",
+    "image": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?w=600&q=80",
+    "tags": [
+      "dessert",
+      "italian",
+      "coffee",
+      "bestseller"
+    ],
+    "available": true,
+    "prepTime": "10 min",
+    "rating": 4.9,
+    "totalOrders": 298,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Cocoa Dusting",
+        "price": 10
+      },
+      {
+        "id": "a2",
+        "name": "Add Espresso Shot",
+        "price": 30
+      },
+      {
+        "id": "a3",
+        "name": "Make it a Double Portion",
+        "price": 200
+      }
+    ]
+  },
+  {
+    "id": "m037",
+    "chefId": "u016",
+    "name": "Chocolate Lava Cake",
+    "description": "Warm dark chocolate cake with a molten fudge centre, served with vanilla bean ice cream and raspberry coulis. Must eat immediately!",
+    "price": 180,
+    "category": "Desserts",
+    "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=600&q=80",
+    "tags": [
+      "chocolate",
+      "warm",
+      "dessert",
+      "indulgent"
+    ],
+    "available": true,
+    "prepTime": "20 min",
+    "rating": 4.9,
+    "totalOrders": 356,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Ice Cream Scoop",
+        "price": 40
+      },
+      {
+        "id": "a2",
+        "name": "Salted Caramel Drizzle",
+        "price": 25
+      },
+      {
+        "id": "a3",
+        "name": "Order 2 Cakes",
+        "price": 180
+      }
+    ]
+  },
+  {
+    "id": "m038",
+    "chefId": "u016",
+    "name": "Dessert Box (5 items)",
+    "description": "Curated box of 5 rotating mini desserts \u2014 brownies, macarons, cheesecake bites, cookies and a seasonal surprise. Perfect for gifting.",
+    "price": 450,
+    "category": "Desserts",
+    "image": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?w=600&q=80",
+    "tags": [
+      "assorted",
+      "dessert",
+      "gift",
+      "party"
+    ],
+    "available": true,
+    "prepTime": "30 min",
+    "rating": 4.8,
+    "totalOrders": 189,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Add Gift Wrapping",
+        "price": 50
+      },
+      {
+        "id": "a2",
+        "name": "Add Greeting Card",
+        "price": 20
+      },
+      {
+        "id": "a3",
+        "name": "Upgrade to 8 items",
+        "price": 300
+      }
+    ]
+  },
+  {
+    "id": "m039",
+    "chefId": "u017",
+    "name": "Tteokbokki",
+    "description": "Chewy rice cakes simmered in spicy gochujang sauce with fish cakes and spring onions. Korea's most beloved street snack.",
+    "price": 180,
+    "category": "Korean",
+    "image": "https://images.unsplash.com/photo-1634733988138-bf2c3a2a13fa?w=600&q=80",
+    "tags": [
+      "korean",
+      "spicy",
+      "street food",
+      "vegetarian"
+    ],
+    "available": true,
+    "prepTime": "20 min",
+    "rating": 4.7,
+    "totalOrders": 234,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Add Ramen Noodles",
+        "price": 40
+      },
+      {
+        "id": "a2",
+        "name": "Add Boiled Egg (2 pcs)",
+        "price": 30
+      },
+      {
+        "id": "a3",
+        "name": "Extra Gochujang Sauce",
+        "price": 20
+      },
+      {
+        "id": "a4",
+        "name": "Mozzarella Topping",
+        "price": 50
+      }
+    ]
+  },
+  {
+    "id": "m040",
+    "chefId": "u017",
+    "name": "Korean Fried Chicken (8 pcs)",
+    "description": "Double-fried chicken with a shattering crispy coating, tossed in either sweet soy garlic or nuclear buldak sauce. Served with pickled daikon.",
+    "price": 320,
+    "category": "Korean",
+    "image": "https://images.unsplash.com/photo-1616093875201-cc5d7a1c4e61?w=600&q=80",
+    "tags": [
+      "fried chicken",
+      "korean",
+      "crispy",
+      "bestseller"
+    ],
+    "available": true,
+    "prepTime": "35 min",
+    "rating": 4.9,
+    "totalOrders": 387,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra 4 Pcs",
+        "price": 160
+      },
+      {
+        "id": "a2",
+        "name": "Both Sauces",
+        "price": 30
+      },
+      {
+        "id": "a3",
+        "name": "Korean Coleslaw",
+        "price": 45
+      },
+      {
+        "id": "a4",
+        "name": "Steamed Rice",
+        "price": 30
+      }
+    ]
+  },
+  {
+    "id": "m041",
+    "chefId": "u017",
+    "name": "Bibimbap",
+    "description": "Warm rice bowl topped with seasoned vegetables, minced beef, a fried egg and gochujang paste. Mix it all up and enjoy the harmony.",
+    "price": 250,
+    "category": "Korean",
+    "image": "https://images.unsplash.com/photo-1553163147-622ab57be1c7?w=600&q=80",
+    "tags": [
+      "rice bowl",
+      "korean",
+      "healthy",
+      "beef"
+    ],
+    "available": true,
+    "prepTime": "25 min",
+    "rating": 4.7,
+    "totalOrders": 198,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Beef",
+        "price": 60
+      },
+      {
+        "id": "a2",
+        "name": "Make Vegan (remove egg/beef)",
+        "price": 0
+      },
+      {
+        "id": "a3",
+        "name": "Extra Gochujang",
+        "price": 15
+      },
+      {
+        "id": "a4",
+        "name": "Doenjang Soup",
+        "price": 50
+      }
+    ]
+  },
+  {
+    "id": "m042",
+    "chefId": "u018",
+    "name": "Loaded Burrito",
+    "description": "Flour tortilla stuffed with seasoned rice, black beans, slow-cooked pulled chicken, pico de gallo, guacamole, sour cream and cheddar.",
+    "price": 290,
+    "category": "Mexican",
+    "image": "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?w=600&q=80",
+    "tags": [
+      "burrito",
+      "mexican",
+      "loaded",
+      "bestseller"
+    ],
+    "available": true,
+    "prepTime": "20 min",
+    "rating": 4.7,
+    "totalOrders": 245,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Upgrade to Beef",
+        "price": 40
+      },
+      {
+        "id": "a2",
+        "name": "Extra Guacamole",
+        "price": 40
+      },
+      {
+        "id": "a3",
+        "name": "Add Jalape\u00f1os",
+        "price": 15
+      },
+      {
+        "id": "a4",
+        "name": "Extra Sour Cream",
+        "price": 20
+      },
+      {
+        "id": "a5",
+        "name": "Tortilla Chips Side",
+        "price": 50
+      }
+    ]
+  },
+  {
+    "id": "m043",
+    "chefId": "u018",
+    "name": "Street Tacos (3 pcs)",
+    "description": "Soft corn tortillas with al pastor pork, diced white onion, fresh cilantro, a squeeze of lime and smoky chipotle salsa.",
+    "price": 220,
+    "category": "Mexican",
+    "image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=600&q=80",
+    "tags": [
+      "tacos",
+      "mexican",
+      "pork",
+      "street food"
+    ],
+    "available": true,
+    "prepTime": "15 min",
+    "rating": 4.6,
+    "totalOrders": 189,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Taco (1 pc)",
+        "price": 75
+      },
+      {
+        "id": "a2",
+        "name": "Upgrade to Shrimp",
+        "price": 50
+      },
+      {
+        "id": "a3",
+        "name": "Extra Salsa",
+        "price": 20
+      },
+      {
+        "id": "a4",
+        "name": "Refried Beans Side",
+        "price": 40
+      }
+    ]
+  },
+  {
+    "id": "m044",
+    "chefId": "u018",
+    "name": "Nachos Supreme",
+    "description": "Tortilla chips layered with pulled beef chili, melted jalape\u00f1o cheese sauce, pickled jalape\u00f1os, pico de gallo, guacamole and sour cream.",
+    "price": 310,
+    "category": "Mexican",
+    "image": "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?w=600&q=80",
+    "tags": [
+      "nachos",
+      "sharing",
+      "mexican",
+      "party"
+    ],
+    "available": true,
+    "prepTime": "20 min",
+    "rating": 4.8,
+    "totalOrders": 167,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Guacamole",
+        "price": 40
+      },
+      {
+        "id": "a2",
+        "name": "Extra Cheese Sauce",
+        "price": 35
+      },
+      {
+        "id": "a3",
+        "name": "Add Grilled Chicken",
+        "price": 70
+      },
+      {
+        "id": "a4",
+        "name": "Extra Jalape\u00f1os",
+        "price": 15
+      }
+    ]
+  },
+  {
+    "id": "m045",
+    "chefId": "u019",
+    "name": "Kacchi Biryani (Full Pot)",
+    "description": "Traditional dum biryani with whole leg of mutton layered in saffron basmati \u2014 slow-cooked on coal for 6 hours. Serves 2.",
+    "price": 760,
+    "category": "Mughlai",
+    "image": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?w=600&q=80",
+    "tags": [
+      "mutton",
+      "biryani",
+      "bestseller",
+      "dum"
+    ],
+    "available": true,
+    "prepTime": "Pre-order",
+    "rating": 5.0,
+    "totalOrders": 412,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Borhani (2 glasses)",
+        "price": 70
+      },
+      {
+        "id": "a2",
+        "name": "Shami Kebab (4 pcs)",
+        "price": 120
+      },
+      {
+        "id": "a3",
+        "name": "Raita (large)",
+        "price": 40
+      },
+      {
+        "id": "a4",
+        "name": "Extra Mutton Leg",
+        "price": 180
+      }
+    ]
+  },
+  {
+    "id": "m046",
+    "chefId": "u019",
+    "name": "Chicken Roast",
+    "description": "Whole chicken legs marinated in yoghurt, spices and ghee, then oven-roasted to a golden finish. Old Dhaka style.",
+    "price": 320,
+    "category": "Bengali",
+    "image": "https://images.unsplash.com/photo-1598103442097-8b74394b95c4?w=600&q=80",
+    "tags": [
+      "chicken",
+      "roast",
+      "bengali"
+    ],
+    "available": true,
+    "prepTime": "50 min",
+    "rating": 4.8,
+    "totalOrders": 198,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Leg Piece",
+        "price": 100
+      },
+      {
+        "id": "a2",
+        "name": "Paratha (2 pcs)",
+        "price": 35
+      },
+      {
+        "id": "a3",
+        "name": "Green Chutney",
+        "price": 20
+      }
+    ]
+  },
+  {
+    "id": "m047",
+    "chefId": "u019",
+    "name": "Mutton Tehari",
+    "description": "One-pot mutton and rice cooked together in aromatic spices. Simpler than biryani, deeper in flavour.",
+    "price": 300,
+    "category": "Bengali",
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?w=600&q=80",
+    "tags": [
+      "mutton",
+      "rice",
+      "one-pot"
+    ],
+    "available": true,
+    "prepTime": "70 min",
+    "rating": 4.8,
+    "totalOrders": 156,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Mutton (2 pcs)",
+        "price": 80
+      },
+      {
+        "id": "a2",
+        "name": "Dahi Chutney",
+        "price": 25
+      },
+      {
+        "id": "a3",
+        "name": "Fried Egg on Top",
+        "price": 20
+      }
+    ]
+  },
+  {
+    "id": "m048",
+    "chefId": "u020",
+    "name": "Grilled Chicken Power Bowl",
+    "description": "Herb-marinated grilled chicken breast on a bed of quinoa, roasted sweet potato, avocado, cherry tomatoes and tahini dressing.",
+    "price": 280,
+    "category": "Healthy",
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=600&q=80",
+    "tags": [
+      "healthy",
+      "high-protein",
+      "gluten-free",
+      "bestseller"
+    ],
+    "available": true,
+    "prepTime": "25 min",
+    "rating": 4.7,
+    "totalOrders": 198,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Double Protein",
+        "price": 70
+      },
+      {
+        "id": "a2",
+        "name": "Add Avocado",
+        "price": 50
+      },
+      {
+        "id": "a3",
+        "name": "Swap to Brown Rice",
+        "price": 0
+      },
+      {
+        "id": "a4",
+        "name": "Extra Tahini",
+        "price": 20
+      }
+    ]
+  },
+  {
+    "id": "m049",
+    "chefId": "u020",
+    "name": "Smoked Salmon Salad",
+    "description": "Mixed greens with Norwegian smoked salmon, cucumber ribbons, capers, red onion and a lemon-dill vinaigrette. Light and elegant.",
+    "price": 320,
+    "category": "Healthy",
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=600&q=80",
+    "tags": [
+      "salmon",
+      "salad",
+      "keto",
+      "healthy"
+    ],
+    "available": true,
+    "prepTime": "15 min",
+    "rating": 4.8,
+    "totalOrders": 134,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Salmon",
+        "price": 80
+      },
+      {
+        "id": "a2",
+        "name": "Add Poached Egg",
+        "price": 30
+      },
+      {
+        "id": "a3",
+        "name": "Sourdough Side",
+        "price": 40
+      }
+    ]
+  },
+  {
+    "id": "m050",
+    "chefId": "u020",
+    "name": "Acai Smoothie Bowl",
+    "description": "Frozen acai, banana and mixed berries blended thick, topped with granola, fresh mango, chia seeds and honey drizzle.",
+    "price": 220,
+    "category": "Healthy",
+    "image": "https://images.unsplash.com/photo-1590301157890-4810ed352733?w=600&q=80",
+    "tags": [
+      "smoothie",
+      "breakfast",
+      "vegan",
+      "healthy"
+    ],
+    "available": true,
+    "prepTime": "10 min",
+    "rating": 4.6,
+    "totalOrders": 112,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Granola",
+        "price": 20
+      },
+      {
+        "id": "a2",
+        "name": "Add Protein Powder",
+        "price": 30
+      },
+      {
+        "id": "a3",
+        "name": "Extra Honey Drizzle",
+        "price": 10
+      }
+    ]
+  },
+  {
+    "id": "m051",
+    "chefId": "u021",
+    "name": "Cantonese Roast Duck",
+    "description": "Hong Kong-style roast duck with crispy lacquered skin and tender, juicy meat. Served with plum sauce and steamed rice.",
+    "price": 420,
+    "category": "Chinese",
+    "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?w=600&q=80",
+    "tags": [
+      "duck",
+      "cantonese",
+      "roast",
+      "bestseller"
+    ],
+    "available": true,
+    "prepTime": "60 min",
+    "rating": 4.9,
+    "totalOrders": 267,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Duck Portion",
+        "price": 120
+      },
+      {
+        "id": "a2",
+        "name": "Jasmine Rice (2 bowls)",
+        "price": 50
+      },
+      {
+        "id": "a3",
+        "name": "Extra Plum Sauce",
+        "price": 20
+      },
+      {
+        "id": "a4",
+        "name": "Stir-fried Bok Choy",
+        "price": 60
+      }
+    ]
+  },
+  {
+    "id": "m052",
+    "chefId": "u021",
+    "name": "Char Siu Pork Bao (6 pcs)",
+    "description": "Fluffy steamed buns filled with sticky-sweet Cantonese BBQ pork. Hand-made wrappers, char siu cooked fresh every morning.",
+    "price": 260,
+    "category": "Chinese",
+    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d?w=600&q=80",
+    "tags": [
+      "bao",
+      "pork",
+      "dim sum",
+      "cantonese"
+    ],
+    "available": true,
+    "prepTime": "30 min",
+    "rating": 4.8,
+    "totalOrders": 198,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra 3 Bao",
+        "price": 130
+      },
+      {
+        "id": "a2",
+        "name": "Hoisin Dipping Sauce",
+        "price": 20
+      },
+      {
+        "id": "a3",
+        "name": "Soy Ginger Sauce",
+        "price": 15
+      }
+    ]
+  },
+  {
+    "id": "m053",
+    "chefId": "u021",
+    "name": "Wonton Noodle Soup",
+    "description": "Silky pork and shrimp wontons in a clear ginger-scallion broth with thin egg noodles. Clean, comforting and deeply satisfying.",
+    "price": 230,
+    "category": "Chinese",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80",
+    "tags": [
+      "soup",
+      "noodles",
+      "wonton",
+      "cantonese"
+    ],
+    "available": true,
+    "prepTime": "25 min",
+    "rating": 4.7,
+    "totalOrders": 167,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Wontons (4 pcs)",
+        "price": 60
+      },
+      {
+        "id": "a2",
+        "name": "Extra Noodles",
+        "price": 30
+      },
+      {
+        "id": "a3",
+        "name": "Chili Oil",
+        "price": 10
+      }
+    ]
+  },
+  {
+    "id": "m054",
+    "chefId": "u022",
+    "name": "Seekh Kebab Platter (8 pcs)",
+    "description": "Minced lamb seekh kebabs grilled on charcoal skewers, served with mint raita, chutney and fresh salad. Fall-off-the-skewer tender.",
+    "price": 300,
+    "category": "BBQ",
+    "image": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?w=600&q=80",
+    "tags": [
+      "kebab",
+      "lamb",
+      "charcoal",
+      "bestseller"
+    ],
+    "available": true,
+    "prepTime": "30 min",
+    "rating": 4.9,
+    "totalOrders": 312,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra 4 Kebabs",
+        "price": 150
+      },
+      {
+        "id": "a2",
+        "name": "Garlic Naan (2 pcs)",
+        "price": 50
+      },
+      {
+        "id": "a3",
+        "name": "Extra Mint Raita",
+        "price": 25
+      },
+      {
+        "id": "a4",
+        "name": "Fried Onion Salad",
+        "price": 20
+      }
+    ]
+  },
+  {
+    "id": "m055",
+    "chefId": "u022",
+    "name": "Shish Tawook",
+    "description": "Lebanese-style marinated chicken cubes on skewers, grilled to perfection. Served with garlic toum, pickles and warm pita.",
+    "price": 260,
+    "category": "Middle Eastern",
+    "image": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=600&q=80",
+    "tags": [
+      "chicken",
+      "middle eastern",
+      "grilled"
+    ],
+    "available": true,
+    "prepTime": "25 min",
+    "rating": 4.8,
+    "totalOrders": 198,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Skewer",
+        "price": 70
+      },
+      {
+        "id": "a2",
+        "name": "Extra Garlic Toum",
+        "price": 25
+      },
+      {
+        "id": "a3",
+        "name": "Fattoush Salad",
+        "price": 60
+      }
+    ]
+  },
+  {
+    "id": "m056",
+    "chefId": "u022",
+    "name": "Mixed Grill Platter",
+    "description": "A feast \u2014 2 seekh kebabs, 2 chicken tikka, 2 shish tawook skewers and 2 lamb chops on one platter with sides. Serves 2.",
+    "price": 580,
+    "category": "BBQ",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=600&q=80",
+    "tags": [
+      "mixed grill",
+      "sharing",
+      "meat",
+      "party"
+    ],
+    "available": true,
+    "prepTime": "45 min",
+    "rating": 4.9,
+    "totalOrders": 167,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Naan Basket (4 pcs)",
+        "price": 80
+      },
+      {
+        "id": "a2",
+        "name": "Mint Chutney & Raita",
+        "price": 40
+      },
+      {
+        "id": "a3",
+        "name": "Extra Lamb Chops (2)",
+        "price": 120
+      }
+    ]
+  },
+  {
+    "id": "m057",
+    "chefId": "u023",
+    "name": "Massaman Curry with Beef",
+    "description": "Rich, mild Thai curry with slow-braised beef, potatoes, peanuts and coconut milk. Influenced by Persian and Indian spices.",
+    "price": 290,
+    "category": "Thai",
+    "image": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?w=600&q=80",
+    "tags": [
+      "curry",
+      "beef",
+      "mild",
+      "thai",
+      "bestseller"
+    ],
+    "available": true,
+    "prepTime": "60 min",
+    "rating": 4.8,
+    "totalOrders": 178,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Beef",
+        "price": 70
+      },
+      {
+        "id": "a2",
+        "name": "Roti Canai (2 pcs)",
+        "price": 40
+      },
+      {
+        "id": "a3",
+        "name": "Jasmine Rice",
+        "price": 30
+      },
+      {
+        "id": "a4",
+        "name": "Extra Coconut Broth",
+        "price": 30
+      }
+    ]
+  },
+  {
+    "id": "m058",
+    "chefId": "u023",
+    "name": "Vietnamese Pho Bo",
+    "description": "12-hour star anise and charred ginger beef bone broth with rice noodles, paper-thin beef slices, bean sprouts and fresh herbs.",
+    "price": 270,
+    "category": "Thai",
+    "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=600&q=80",
+    "tags": [
+      "pho",
+      "vietnamese",
+      "beef",
+      "soup"
+    ],
+    "available": true,
+    "prepTime": "20 min",
+    "rating": 4.7,
+    "totalOrders": 143,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Beef Slices",
+        "price": 60
+      },
+      {
+        "id": "a2",
+        "name": "Extra Noodles",
+        "price": 30
+      },
+      {
+        "id": "a3",
+        "name": "Hoisin & Sriracha",
+        "price": 15
+      },
+      {
+        "id": "a4",
+        "name": "Spring Rolls (2 pcs)",
+        "price": 70
+      }
+    ]
+  },
+  {
+    "id": "m059",
+    "chefId": "u023",
+    "name": "Som Tum (Green Papaya Salad)",
+    "description": "Pounded green papaya with dried shrimp, cherry tomatoes, palm sugar, fish sauce and fresh chilies. Zingy, crunchy and addictive.",
+    "price": 160,
+    "category": "Thai",
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?w=600&q=80",
+    "tags": [
+      "salad",
+      "vegan-option",
+      "thai",
+      "healthy"
+    ],
+    "available": true,
+    "prepTime": "15 min",
+    "rating": 4.6,
+    "totalOrders": 112,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Add Grilled Chicken",
+        "price": 60
+      },
+      {
+        "id": "a2",
+        "name": "Add Crab",
+        "price": 90
+      },
+      {
+        "id": "a3",
+        "name": "Sticky Rice",
+        "price": 30
+      }
+    ]
+  },
+  {
+    "id": "m060",
+    "chefId": "u024",
+    "name": "Lasagne al Forno",
+    "description": "Hand-layered lasagne with slow-cooked beef rag\u00f9, b\u00e9chamel and Parmesan. Baked in a cast iron dish. Serves 2 generously.",
+    "price": 450,
+    "category": "Italian",
+    "image": "https://images.unsplash.com/photo-1574894709920-11b28e7367e3?w=600&q=80",
+    "tags": [
+      "lasagne",
+      "beef",
+      "pasta",
+      "bestseller"
+    ],
+    "available": true,
+    "prepTime": "45 min",
+    "rating": 4.9,
+    "totalOrders": 234,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Garlic Ciabatta",
+        "price": 60
+      },
+      {
+        "id": "a2",
+        "name": "Side Caesar Salad",
+        "price": 80
+      },
+      {
+        "id": "a3",
+        "name": "Extra Meat Portion",
+        "price": 80
+      }
+    ]
+  },
+  {
+    "id": "m061",
+    "chefId": "u024",
+    "name": "Potato Gnocchi with Gorgonzola",
+    "description": "Pillowy handmade potato gnocchi tossed in a creamy Gorgonzola and walnut sauce. Rich, indulgent and totally authentic.",
+    "price": 340,
+    "category": "Italian",
+    "image": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=600&q=80",
+    "tags": [
+      "gnocchi",
+      "pasta",
+      "vegetarian",
+      "italian"
+    ],
+    "available": true,
+    "prepTime": "35 min",
+    "rating": 4.8,
+    "totalOrders": 167,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Gorgonzola",
+        "price": 45
+      },
+      {
+        "id": "a2",
+        "name": "Add Crispy Pancetta",
+        "price": 55
+      },
+      {
+        "id": "a3",
+        "name": "Truffle Shavings",
+        "price": 80
+      }
+    ]
+  },
+  {
+    "id": "m062",
+    "chefId": "u024",
+    "name": "Cannoli Box (4 pcs)",
+    "description": "Crispy shell cannoli filled with sweetened ricotta, chocolate chips and candied peel. Made fresh daily \u2014 order by noon.",
+    "price": 280,
+    "category": "Desserts",
+    "image": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?w=600&q=80",
+    "tags": [
+      "dessert",
+      "italian",
+      "cannoli",
+      "sweet"
+    ],
+    "available": true,
+    "prepTime": "10 min",
+    "rating": 4.9,
+    "totalOrders": 198,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra 2 Cannoli",
+        "price": 140
+      },
+      {
+        "id": "a2",
+        "name": "Chocolate Drizzle",
+        "price": 20
+      },
+      {
+        "id": "a3",
+        "name": "Pistachio Dusting",
+        "price": 25
+      }
+    ]
+  },
+  {
+    "id": "m063",
+    "chefId": "u025",
+    "name": "Jollof Rice with Suya Chicken",
+    "description": "West African party jollof rice cooked in a smoky tomato base, served with suya-spiced grilled chicken and fried plantain.",
+    "price": 310,
+    "category": "African",
+    "image": "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?w=600&q=80",
+    "tags": [
+      "african",
+      "jollof",
+      "chicken",
+      "unique"
+    ],
+    "available": true,
+    "prepTime": "45 min",
+    "rating": 4.7,
+    "totalOrders": 134,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Chicken Piece",
+        "price": 80
+      },
+      {
+        "id": "a2",
+        "name": "Extra Plantain (2 pcs)",
+        "price": 30
+      },
+      {
+        "id": "a3",
+        "name": "Fried Egg on Rice",
+        "price": 20
+      },
+      {
+        "id": "a4",
+        "name": "Suya Spice Sachet",
+        "price": 15
+      }
+    ]
+  },
+  {
+    "id": "m064",
+    "chefId": "u025",
+    "name": "Peri-Peri Chicken Wrap",
+    "description": "Flame-grilled peri-peri marinated chicken in a toasted flour wrap with coleslaw, avocado and house chili sauce. Inspired by Nando's \u2014 but better.",
+    "price": 270,
+    "category": "Continental",
+    "image": "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?w=600&q=80",
+    "tags": [
+      "peri-peri",
+      "chicken",
+      "wrap",
+      "continental"
+    ],
+    "available": true,
+    "prepTime": "25 min",
+    "rating": 4.6,
+    "totalOrders": 112,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Peri-Peri Sauce",
+        "price": 20
+      },
+      {
+        "id": "a2",
+        "name": "Add Halloumi",
+        "price": 60
+      },
+      {
+        "id": "a3",
+        "name": "Corn on the Cob",
+        "price": 40
+      },
+      {
+        "id": "a4",
+        "name": "Garlic Bread Side",
+        "price": 40
+      }
+    ]
+  },
+  {
+    "id": "m065",
+    "chefId": "u011",
+    "name": "BBQ Chicken Pizza",
+    "description": "Smoky BBQ base with pulled chicken, red onion, mozzarella and fresh coriander on a sourdough crust.",
+    "price": 380,
+    "category": "Pizza",
+    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=600&q=80",
+    "tags": [
+      "pizza",
+      "chicken",
+      "bbq"
+    ],
+    "available": true,
+    "prepTime": "25 min",
+    "rating": 4.7,
+    "totalOrders": 198,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra BBQ Chicken",
+        "price": 70
+      },
+      {
+        "id": "a2",
+        "name": "Extra Cheese",
+        "price": 60
+      },
+      {
+        "id": "a3",
+        "name": "Add Jalape\u00f1os",
+        "price": 20
+      },
+      {
+        "id": "a4",
+        "name": "Stuffed Crust",
+        "price": 50
+      }
+    ]
+  },
+  {
+    "id": "m066",
+    "chefId": "u011",
+    "name": "Four Cheese Pizza",
+    "description": "A pizza lover's dream \u2014 mozzarella, gorgonzola, provolone and Parmesan on a thin crispy base with fresh basil and honey.",
+    "price": 420,
+    "category": "Pizza",
+    "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=600&q=80",
+    "tags": [
+      "pizza",
+      "vegetarian",
+      "cheese",
+      "indulgent"
+    ],
+    "available": true,
+    "prepTime": "25 min",
+    "rating": 4.9,
+    "totalOrders": 256,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Add Prosciutto",
+        "price": 80
+      },
+      {
+        "id": "a2",
+        "name": "Truffle Oil Drizzle",
+        "price": 40
+      },
+      {
+        "id": "a3",
+        "name": "Stuffed Crust",
+        "price": 50
+      }
+    ]
+  },
+  {
+    "id": "m067",
+    "chefId": "u013",
+    "name": "Loaded Hot Dog",
+    "description": "All-beef frank in a brioche bun loaded with caramelised onions, cheese sauce, jalape\u00f1os, crispy shallots and mustard.",
+    "price": 220,
+    "category": "Bar Food",
+    "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?w=600&q=80",
+    "tags": [
+      "hot dog",
+      "bar food",
+      "loaded"
+    ],
+    "available": true,
+    "prepTime": "15 min",
+    "rating": 4.6,
+    "totalOrders": 134,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Jalape\u00f1os",
+        "price": 15
+      },
+      {
+        "id": "a2",
+        "name": "Add Bacon Strips",
+        "price": 50
+      },
+      {
+        "id": "a3",
+        "name": "Loaded Fries Side",
+        "price": 80
+      }
+    ]
+  },
+  {
+    "id": "m068",
+    "chefId": "u013",
+    "name": "Chili Cheese Fries",
+    "description": "Crispy thick-cut fries smothered in slow-cooked beef chili, jalape\u00f1o cheese sauce, sour cream and spring onions. A proper bar classic.",
+    "price": 240,
+    "category": "Bar Food",
+    "image": "https://images.unsplash.com/photo-1630450202872-e0829c9d6172?w=600&q=80",
+    "tags": [
+      "fries",
+      "bar food",
+      "cheese",
+      "sharing"
+    ],
+    "available": true,
+    "prepTime": "20 min",
+    "rating": 4.8,
+    "totalOrders": 189,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Chili",
+        "price": 35
+      },
+      {
+        "id": "a2",
+        "name": "Extra Cheese Sauce",
+        "price": 30
+      },
+      {
+        "id": "a3",
+        "name": "Add Pulled Beef",
+        "price": 60
+      }
+    ]
+  },
+  {
+    "id": "m069",
+    "chefId": "u017",
+    "name": "Budae Jjigae (Army Stew)",
+    "description": "Korea's legendary hot pot \u2014 kimchi, spam, sausage, ramen noodles, tofu and gochujang in a rich spicy broth. Great for sharing.",
+    "price": 340,
+    "category": "Korean",
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80",
+    "tags": [
+      "stew",
+      "spicy",
+      "korean",
+      "sharing"
+    ],
+    "available": true,
+    "prepTime": "30 min",
+    "rating": 4.7,
+    "totalOrders": 156,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Ramen Noodles",
+        "price": 40
+      },
+      {
+        "id": "a2",
+        "name": "Extra Spam Slice",
+        "price": 35
+      },
+      {
+        "id": "a3",
+        "name": "Mozzarella Topping",
+        "price": 50
+      },
+      {
+        "id": "a4",
+        "name": "Extra Spicy Level",
+        "price": 0
+      }
+    ]
+  },
+  {
+    "id": "m070",
+    "chefId": "u014",
+    "name": "Chicken Teriyaki Bento Box",
+    "description": "Glazed teriyaki chicken with steamed rice, pickled vegetables, tamagoyaki egg roll, edamame and miso soup. A complete Japanese meal.",
+    "price": 320,
+    "category": "Japanese",
+    "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=600&q=80",
+    "tags": [
+      "bento",
+      "japanese",
+      "chicken",
+      "complete meal"
+    ],
+    "available": true,
+    "prepTime": "30 min",
+    "rating": 4.8,
+    "totalOrders": 178,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Teriyaki Sauce",
+        "price": 20
+      },
+      {
+        "id": "a2",
+        "name": "Add Gyoza (4 pcs)",
+        "price": 90
+      },
+      {
+        "id": "a3",
+        "name": "Green Tea (hot)",
+        "price": 40
+      }
+    ]
+  },
+  {
+    "id": "m071",
+    "chefId": "u015",
+    "name": "Lamb Kofta with Bulgur",
+    "description": "Spiced ground lamb kofta patties on a bed of herby bulgur wheat with roasted tomatoes, pomegranate molasses and tzatziki.",
+    "price": 300,
+    "category": "Middle Eastern",
+    "image": "https://images.unsplash.com/photo-1529006557810-274b9b2fc783?w=600&q=80",
+    "tags": [
+      "lamb",
+      "kofta",
+      "middle eastern"
+    ],
+    "available": true,
+    "prepTime": "30 min",
+    "rating": 4.7,
+    "totalOrders": 134,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Kofta (2 pcs)",
+        "price": 80
+      },
+      {
+        "id": "a2",
+        "name": "Extra Tzatziki",
+        "price": 30
+      },
+      {
+        "id": "a3",
+        "name": "Warm Pita (2 pcs)",
+        "price": 30
+      }
+    ]
+  },
+  {
+    "id": "m072",
+    "chefId": "u016",
+    "name": "New York Cheesecake Slice",
+    "description": "Thick, dense and impossibly creamy New York-style cheesecake on a buttery graham cracker crust. Served with berry compote.",
+    "price": 190,
+    "category": "Desserts",
+    "image": "https://images.unsplash.com/photo-1524351199678-941a58a3df50?w=600&q=80",
+    "tags": [
+      "cheesecake",
+      "dessert",
+      "new york"
+    ],
+    "available": true,
+    "prepTime": "10 min",
+    "rating": 4.8,
+    "totalOrders": 234,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Extra Berry Compote",
+        "price": 20
+      },
+      {
+        "id": "a2",
+        "name": "Whipped Cream",
+        "price": 20
+      },
+      {
+        "id": "a3",
+        "name": "Order Full Cake",
+        "price": 950
+      }
+    ]
+  },
+  {
+    "id": "m073",
+    "chefId": "u024",
+    "name": "Cr\u00e8me Br\u00fbl\u00e9e (2 pcs)",
+    "description": "Classic French vanilla custard with a perfectly caramelised sugar crust cracked tableside. Smooth, rich and elegant.",
+    "price": 240,
+    "category": "Desserts",
+    "image": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?w=600&q=80",
+    "tags": [
+      "dessert",
+      "french",
+      "classic",
+      "elegant"
+    ],
+    "available": true,
+    "prepTime": "10 min",
+    "rating": 4.9,
+    "totalOrders": 156,
+    "addons": [
+      {
+        "id": "a1",
+        "name": "Order 4 Pieces",
+        "price": 480
+      },
+      {
+        "id": "a2",
+        "name": "Fresh Raspberries",
+        "price": 40
+      },
+      {
+        "id": "a3",
+        "name": "Vanilla Ice Cream Side",
+        "price": 50
+      }
+    ]
+  }
+]

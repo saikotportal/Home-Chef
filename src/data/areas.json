@@ -1,0 +1,134 @@
+[
+  {
+    "id": "dhanmondi",
+    "name": "Dhanmondi",
+    "city": "Dhaka",
+    "zone": 1,
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&q=80",
+    "chefCount": 3,
+    "popular": true,
+    "lat": 23.7461,
+    "lng": 90.3742
+  },
+  {
+    "id": "gulshan",
+    "name": "Gulshan",
+    "city": "Dhaka",
+    "zone": 2,
+    "image": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=400&q=80",
+    "chefCount": 3,
+    "popular": true,
+    "lat": 23.7808,
+    "lng": 90.4147
+  },
+  {
+    "id": "mirpur",
+    "name": "Mirpur",
+    "city": "Dhaka",
+    "zone": 3,
+    "image": "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=400&q=80",
+    "chefCount": 3,
+    "popular": true,
+    "lat": 23.8223,
+    "lng": 90.3654
+  },
+  {
+    "id": "old-dhaka",
+    "name": "Old Dhaka",
+    "city": "Dhaka",
+    "zone": 4,
+    "image": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?w=400&q=80",
+    "chefCount": 1,
+    "popular": true,
+    "lat": 23.7104,
+    "lng": 90.4074
+  },
+  {
+    "id": "uttara",
+    "name": "Uttara",
+    "city": "Dhaka",
+    "zone": 5,
+    "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=400&q=80",
+    "chefCount": 2,
+    "popular": true,
+    "lat": 23.8759,
+    "lng": 90.3795
+  },
+  {
+    "id": "mohammadpur",
+    "name": "Mohammadpur",
+    "city": "Dhaka",
+    "zone": 6,
+    "image": "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?w=400&q=80",
+    "chefCount": 2,
+    "popular": true,
+    "lat": 23.7634,
+    "lng": 90.389
+  },
+  {
+    "id": "bashundhara",
+    "name": "Bashundhara",
+    "city": "Dhaka",
+    "zone": 7,
+    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=400&q=80",
+    "chefCount": 2,
+    "popular": true,
+    "lat": 23.8144,
+    "lng": 90.4275
+  },
+  {
+    "id": "banani",
+    "name": "Banani",
+    "city": "Dhaka",
+    "zone": 2,
+    "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=400&q=80",
+    "chefCount": 2,
+    "popular": true,
+    "lat": 23.7937,
+    "lng": 90.4066
+  },
+  {
+    "id": "motijheel",
+    "name": "Motijheel",
+    "city": "Dhaka",
+    "zone": 4,
+    "image": "https://images.unsplash.com/photo-1449157291145-7efd050a4d0e?w=400&q=80",
+    "chefCount": 1,
+    "popular": true,
+    "lat": 23.7338,
+    "lng": 90.4186
+  },
+  {
+    "id": "rampura",
+    "name": "Rampura",
+    "city": "Dhaka",
+    "zone": 3,
+    "image": "https://images.unsplash.com/photo-1460317442991-0ec209397118?w=400&q=80",
+    "chefCount": 1,
+    "popular": true,
+    "lat": 23.7572,
+    "lng": 90.4318
+  },
+  {
+    "id": "wari",
+    "name": "Wari",
+    "city": "Dhaka",
+    "zone": 4,
+    "image": "https://images.unsplash.com/photo-1494526585095-c41746248156?w=400&q=80",
+    "chefCount": 1,
+    "popular": true,
+    "lat": 23.7191,
+    "lng": 90.4133
+  },
+  {
+    "id": "lalbagh",
+    "name": "Lalbagh",
+    "city": "Dhaka",
+    "zone": 4,
+    "image": "https://images.unsplash.com/photo-1523217582562-09d0def993a6?w=400&q=80",
+    "chefCount": 0,
+    "popular": false,
+    "lat": 23.7634,
+    "lng": 90.389
+  }
+]

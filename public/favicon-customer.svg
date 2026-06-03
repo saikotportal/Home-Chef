@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Background -->
+  <circle cx="32" cy="32" r="32" fill="#FF6B35"/>
+
+  <!-- Bag body -->
+  <rect x="16" y="28" width="32" height="22" rx="4" fill="white"/>
+
+  <!-- Bag handle -->
+  <path d="M24 28 Q24 18 32 18 Q40 18 40 28" fill="none" stroke="white" stroke-width="3.5" stroke-linecap="round"/>
+
+  <!-- Bag label lines -->
+  <rect x="22" y="35" width="20" height="2.5" rx="1.25" fill="#FF6B35" opacity="0.5"/>
+  <rect x="22" y="40" width="14" height="2.5" rx="1.25" fill="#FF6B35" opacity="0.35"/>
+
+  <!-- Heart on bag -->
+  <path d="M32 45 L28 41 Q26 38.5 28.5 37 Q30.5 36 32 38.5 Q33.5 36 35.5 37 Q38 38.5 36 41 Z" fill="#FF6B35" opacity="0.6"/>
+</svg>

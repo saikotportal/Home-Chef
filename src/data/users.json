@@ -1,0 +1,342 @@
+[
+  {
+    "id": "u001",
+    "name": "Rashida Begum",
+    "email": "rashida@chef.com",
+    "password": "chef123",
+    "role": "chef",
+    "avatar": "https://images.unsplash.com/photo-1607631568010-a87245c0daf4?w=200&q=80",
+    "addresses": []
+  },
+  {
+    "id": "u002",
+    "name": "Karim Mia",
+    "email": "karim@chef.com",
+    "password": "chef123",
+    "role": "chef",
+    "avatar": "https://images.unsplash.com/photo-1583394293214-0d0f290c9c5b?w=200&q=80",
+    "addresses": []
+  },
+  {
+    "id": "u003",
+    "name": "Priya Das",
+    "email": "priya@chef.com",
+    "password": "chef123",
+    "role": "chef",
+    "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200&q=80",
+    "addresses": []
+  },
+  {
+    "id": "u004",
+    "name": "Fatema Khatun",
+    "email": "fatema@chef.com",
+    "password": "chef123",
+    "role": "chef",
+    "avatar": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=200&q=80",
+    "addresses": []
+  },
+  {
+    "id": "u005",
+    "name": "Rifat Rahman",
+    "email": "rifat@customer.com",
+    "password": "customer123",
+    "role": "customer",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&q=80",
+    "addresses": [
+      {
+        "label": "Home",
+        "text": "House 12, Road 5, Dhanmondi, Dhaka"
+      },
+      {
+        "label": "Work",
+        "text": "Level 4, Amin Court, Motijheel, Dhaka"
+      }
+    ]
+  },
+  {
+    "id": "u006",
+    "name": "Nadia Islam",
+    "email": "nadia@customer.com",
+    "password": "customer123",
+    "role": "customer",
+    "avatar": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?w=200&q=80",
+    "addresses": [
+      {
+        "label": "Home",
+        "text": "Flat 3B, Gulshan Avenue, Dhaka"
+      }
+    ]
+  },
+  {
+    "id": "u007",
+    "name": "Rakib Hossain",
+    "email": "rakib@rider.com",
+    "password": "rider123",
+    "role": "rider",
+    "phone": "+8801711223344",
+    "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=200&q=80",
+    "addresses": [],
+    "rating": 4.8,
+    "totalDeliveries": 312,
+    "areaId": "dhanmondi",
+    "areaName": "Dhanmondi",
+    "zone": 1
+  },
+  {
+    "id": "u008",
+    "name": "Sumon Ali",
+    "email": "sumon@rider.com",
+    "password": "rider123",
+    "role": "rider",
+    "phone": "+8801722334455",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&q=80",
+    "addresses": [],
+    "rating": 4.6,
+    "totalDeliveries": 187,
+    "areaId": "gulshan",
+    "areaName": "Gulshan",
+    "zone": 2
+  },
+  {
+    "id": "u026",
+    "name": "Jahangir Alam",
+    "email": "jahangir@rider.com",
+    "password": "rider123",
+    "role": "rider",
+    "phone": "+8801733445566",
+    "avatar": "https://images.unsplash.com/photo-1552058544-f2b08422138a?w=200&q=80",
+    "addresses": [],
+    "rating": 4.9,
+    "totalDeliveries": 428,
+    "areaId": "mirpur",
+    "areaName": "Mirpur",
+    "zone": 3
+  },
+  {
+    "id": "u027",
+    "name": "Milon Sarker",
+    "email": "milon@rider.com",
+    "password": "rider123",
+    "role": "rider",
+    "phone": "+8801744556677",
+    "avatar": "https://images.unsplash.com/photo-1544723795-3fb6469f5b39?w=200&q=80",
+    "addresses": [],
+    "rating": 4.5,
+    "totalDeliveries": 95,
+    "areaId": "uttara",
+    "areaName": "Uttara",
+    "zone": 5
+  },
+  {
+    "id": "u028",
+    "name": "Touhid Islam",
+    "email": "touhid@rider.com",
+    "password": "rider123",
+    "role": "rider",
+    "phone": "+8801755667788",
+    "avatar": "https://images.unsplash.com/photo-1530268729831-4b0b9e170218?w=200&q=80",
+    "addresses": [],
+    "rating": 4.7,
+    "totalDeliveries": 256,
+    "areaId": "banani",
+    "areaName": "Banani",
+    "zone": 2
+  },
+  {
+    "id": "u029",
+    "name": "Bellal Hossain",
+    "email": "bellal@rider.com",
+    "password": "rider123",
+    "role": "rider",
+    "phone": "+8801766778899",
+    "avatar": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?w=200&q=80",
+    "addresses": [],
+    "rating": 4.4,
+    "totalDeliveries": 143,
+    "areaId": "motijheel",
+    "areaName": "Motijheel",
+    "zone": 4
+  },
+  {
+    "id": "u030",
+    "name": "Rana Mia",
+    "email": "rana@rider.com",
+    "password": "rider123",
+    "role": "rider",
+    "phone": "+8801777889900",
+    "avatar": "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?w=200&q=80",
+    "addresses": [],
+    "rating": 4.6,
+    "totalDeliveries": 201,
+    "areaId": "mohammadpur",
+    "areaName": "Mohammadpur",
+    "zone": 6
+  },
+  {
+    "id": "u009",
+    "name": "Lin Wei",
+    "email": "lin@chef.com",
+    "password": "chef123",
+    "role": "chef",
+    "avatar": "https://images.unsplash.com/photo-1552374196-c4e7ffc6e126?w=200&q=80",
+    "addresses": []
+  },
+  {
+    "id": "u010",
+    "name": "Nipa Suwan",
+    "email": "nipa@chef.com",
+    "password": "chef123",
+    "role": "chef",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&q=80",
+    "addresses": []
+  },
+  {
+    "id": "u011",
+    "name": "Marco Rossi",
+    "email": "marco@chef.com",
+    "password": "chef123",
+    "role": "chef",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&q=80",
+    "addresses": []
+  },
+  {
+    "id": "u012",
+    "name": "Arjun Sharma",
+    "email": "arjun@chef.com",
+    "password": "chef123",
+    "role": "chef",
+    "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=200&q=80",
+    "addresses": []
+  },
+  {
+    "id": "u013",
+    "name": "Tariq Al-Masri",
+    "email": "tariq@chef.com",
+    "password": "chef123",
+    "role": "chef",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&q=80",
+    "addresses": []
+  },
+  {
+    "id": "u014",
+    "name": "Yuki Tanaka",
+    "email": "yuki@chef.com",
+    "password": "chef123",
+    "role": "chef",
+    "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=200&q=80",
+    "addresses": []
+  },
+  {
+    "id": "u015",
+    "name": "Amira Hassan",
+    "email": "amira@chef.com",
+    "password": "chef123",
+    "role": "chef",
+    "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200&q=80",
+    "addresses": []
+  },
+  {
+    "id": "u016",
+    "name": "Sofia Mendez",
+    "email": "sofia@chef.com",
+    "password": "chef123",
+    "role": "chef",
+    "avatar": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?w=200&q=80",
+    "addresses": []
+  },
+  {
+    "id": "u017",
+    "name": "Kim Ji-ho",
+    "email": "kim@chef.com",
+    "password": "chef123",
+    "role": "chef",
+    "avatar": "https://images.unsplash.com/photo-1463453091185-61582044d556?w=200&q=80",
+    "addresses": []
+  },
+  {
+    "id": "u018",
+    "name": "Carlos Rivera",
+    "email": "carlos@chef.com",
+    "password": "chef123",
+    "role": "chef",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&q=80",
+    "addresses": []
+  },
+  {
+    "id": "u019",
+    "name": "Fatema Khatun",
+    "email": "fatema@chef.com",
+    "password": "chef123",
+    "role": "chef",
+    "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=200&q=80",
+    "addresses": []
+  },
+  {
+    "id": "u020",
+    "name": "Chef Reza",
+    "email": "reza@chef.com",
+    "password": "chef123",
+    "role": "chef",
+    "avatar": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?w=200&q=80",
+    "addresses": []
+  },
+  {
+    "id": "u021",
+    "name": "Mei Ling",
+    "email": "meil@chef.com",
+    "password": "chef123",
+    "role": "chef",
+    "avatar": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=200&q=80",
+    "addresses": []
+  },
+  {
+    "id": "u022",
+    "name": "Hamid Shaikh",
+    "email": "hamid@chef.com",
+    "password": "chef123",
+    "role": "chef",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&q=80",
+    "addresses": []
+  },
+  {
+    "id": "u023",
+    "name": "Pita Somchai",
+    "email": "pita@chef.com",
+    "password": "chef123",
+    "role": "chef",
+    "avatar": "https://images.unsplash.com/photo-1463453091185-61582044d556?w=200&q=80",
+    "addresses": []
+  },
+  {
+    "id": "u024",
+    "name": "Giulia Conti",
+    "email": "giulia@chef.com",
+    "password": "chef123",
+    "role": "chef",
+    "avatar": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?w=200&q=80",
+    "addresses": []
+  },
+  {
+    "id": "u025",
+    "name": "Ahmed Okonkwo",
+    "email": "ahmed@chef.com",
+    "password": "chef123",
+    "role": "chef",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&q=80",
+    "addresses": []
+  },
+  {
+    "id": "u031",
+    "name": "Badhon",
+    "email": "badhon@customer.com",
+    "password": "customer123",
+    "role": "customer",
+    "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=200&q=80",
+    "phone": "+880 1711-000031",
+    "address": "Mirpur, Dhaka",
+    "areaId": "mirpur",
+    "joinedYear": 2025,
+    "totalOrders": 0,
+    "wallet": 0
+  }
+]

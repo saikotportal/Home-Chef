@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Background -->
+  <circle cx="32" cy="32" r="32" fill="#16A34A"/>
+
+  <!-- Chef hat puff top -->
+  <circle cx="24" cy="21" r="8" fill="white"/>
+  <circle cx="32" cy="18" r="9" fill="white"/>
+  <circle cx="40" cy="21" r="8" fill="white"/>
+
+  <!-- Hat body -->
+  <rect x="20" y="22" width="24" height="12" fill="white"/>
+
+  <!-- Brim -->
+  <rect x="17" y="33" width="30" height="6" rx="3" fill="white"/>
+
+  <!-- Band -->
+  <rect x="17" y="35" width="30" height="2" rx="1" fill="#16A34A"/>
+
+  <!-- Stars on hat -->
+  <text x="29" y="31" font-size="8" fill="#16A34A" text-anchor="middle" font-family="sans-serif">★★</text>
+</svg>
