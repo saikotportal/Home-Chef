@@ -87,7 +87,7 @@ Use the **Demo Login** buttons on the login page, or enter manually:
 |------|-------|----------|
 | 🛵 Rider | `rakib@rider.com` | `rider123` |
 | 👨‍🍳 Chef | `rashida@chef.com` | `chef123` |
-| 👤 Customer | `abir@customer.com` | `customer123` |
+| 👤 Customer | `rifat@customer.com` | `customer123` |
 
 ---
 
