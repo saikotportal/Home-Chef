@@ -11,7 +11,7 @@
 
 | Customer Home | Chef Dashboard | Rider Dashboard |
 |---|---|---|
-| <img src="screenshot/landing.png"> | <img src="screenshot/chef.png"> | <img src="screenshot/rider.png"> |
+| <img src="screenshot/landing.png"> | <img src="screenshot/chef.png"> | <img src="screenshot/chef 2.png"> |
 
 ---
 
