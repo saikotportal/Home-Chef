@@ -11,7 +11,7 @@
 
 | Customer Home | Chef Dashboard | Rider Dashboard |
 |---|---|---|
-| *(add screenshot)* | *(add screenshot)* | *(add screenshot)* |
+| <img src="screenshot/landing.png"> | *(add screenshot)* | *(add screenshot)* |
 
 ---
 
